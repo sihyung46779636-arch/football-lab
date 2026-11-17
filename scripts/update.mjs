@@ -86,7 +86,7 @@ for (const [id, [code, name, q]] of Object.entries(LEAGUES)) {
   try {
     const fin = await api(`/competitions/${code}/matches?status=FINISHED
     cur.results = fin.matches.map(toMatch).sort((a, b) => b.t.localeCompare(a.t)).slice(0, 10);
-    const up = await api(`/competitions/${code}/matches?status=SCHEDULED,TIMED
+        const up = await api(`/competitions/${code}/matches?status=SCHEDULED,TIMED`);
     cur.fixtures = up.matches.map(toMatch).sort((a, b) => a.t.localeCompare(b.t)).slice(0, 10);
     const st = await api(`/competitions/${code}/standings`);
     cur.table = st.standings[0].table.map((r) => ({ p: r.position, n: team(r.team), g: r.playedGames, w: r.won, d: r.draw, l: r.lost, pts: r.points }));
