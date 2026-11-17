@@ -84,7 +84,7 @@ for (const [id, [code, name, q]] of Object.entries(LEAGUES)) {
   const old = prev.leagues?.[id] || {};
   const cur = { name, results: old.results || [], fixtures: old.fixtures || [], table: old.table || [], news: old.news || [] };
   try {
-    const fin = await api(`/competitions/${code}/matches?status=FINISHED
+    const fin = await api(`/competitions/${code}/matches?status=FINISHED`);
     cur.results = fin.matches.map(toMatch).sort((a, b) => b.t.localeCompare(a.t)).slice(0, 10);
         const up = await api(`/competitions/${code}/matches?status=SCHEDULED,TIMED`);
     cur.fixtures = up.matches.map(toMatch).sort((a, b) => a.t.localeCompare(b.t)).slice(0, 10);
