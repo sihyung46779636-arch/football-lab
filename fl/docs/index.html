@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>풋볼실험실 | 리그별 데일리 축구 소식</title>
+<style>
+:root{--bg:#f6f8f5;--card:#fff;--tx:#12201a;--mu:#5d6b63;--ln:#e2e8e3;--ac:#0f9d58;--ac2:#e8f6ee;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1511;--card:#17211b;--tx:#e8f0ea;--mu:#93a499;--ln:#25322a;--ac:#3ddc84;--ac2:#14281d;color-scheme:dark}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font-family:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",system-ui,sans-serif;line-height:1.5}
+.wrap{max-width:860px;margin:0 auto;padding:20px 16px 40px}
+header{display:flex;justify-content:space-between;align-items:center;gap:12px}
+h1{font-size:22px;margin:0}h1 span{color:var(--ac)}.upd{font-size:12px;color:var(--mu)}
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:12px 0;scrollbar-width:none}
+.tab{flex:none;border:1px solid var(--ln);background:var(--card);color:var(--tx);padding:8px 14px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer}
+.tab[aria-selected=true]{background:var(--ac);border-color:var(--ac);color:#fff;font-weight:600}
+h2{font-size:15px;margin:22px 0 10px;color:var(--mu)}
+.card{background:var(--card);border:1px solid var(--ln);border-radius:14px;overflow:hidden}
+.row{display:grid;grid-template-columns:48px 1fr 60px 1fr;gap:8px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--ln);font-size:14px}
+.row:last-child,.n:last-child{border-bottom:0}.d{color:var(--mu);font-size:12px}.h{text-align:right}
+.s{text-align:center;font-weight:700;background:var(--ac2);border-radius:8px}
+.n{display:block;padding:12px 14px;border-bottom:1px solid var(--ln);color:var(--tx);text-decoration:none;font-size:14px}
+.n small{display:block;color:var(--mu);font-size:12px}
+.scroll{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:14px;min-width:360px}
+th,td{padding:8px 10px;text-align:center;border-bottom:1px solid var(--ln)}th{color:var(--mu);font-weight:500;font-size:12px}
+td:nth-child(2),th:nth-child(2){text-align:left}td b{color:var(--ac)}
+.empty{padding:14px;color:var(--mu);font-size:14px}
+footer{margin-top:28px;font-size:12px;color:var(--mu);text-align:center}
+</style></head><body><div class="wrap">
+<header><h1>⚽ 풋볼<span>실험실</span></h1><div class="upd" id="upd">불러오는 중…</div></header>
+<div class="tabs" id="tabs" role="tablist"></div><main id="view"></main>
+<footer>경기 데이터: football-data.org · 뉴스는 제목과 원문 링크만 표시 · 시간은 한국시간</footer></div>
+<script>
+var D=null,cur="epl",ORDER=["epl","laliga","seriea","bundes","ligue1","kr"];
+var fmt=new Intl.DateTimeFormat("ko-KR",{timeZone:"Asia/Seoul",month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit",hour12:false});
+var fd=new Intl.DateTimeFormat("ko-KR",{timeZone:"Asia/Seoul",month:"numeric",day:"numeric"});
+function e(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function safe(u){return /^https?:\/\//.test(u)?u:"#"}
+function news(a){if(!a||!a.length)return'<div class="card"><div class="empty">소식이 아직 없어요.</div></div>';
+ return'<div class="card">'+a.map(function(x){return'<a class="n" target="_blank" rel="noopener" href="'+e(safe(x.link))+'">'+e(x.title)+'<small>'+e(x.src)+'</small></a>'}).join("")+'</div>'}
+function res(a){if(!a.length)return'<div class="card"><div class="empty">최근 경기가 없어요.</div></div>';
+ return'<div class="card">'+a.map(function(m){return'<div class="row"><span class="d">'+fd.format(new Date(m.t))+'</span><span class="h">'+e(m.h)+'</span><span class="s">'+m.hs+' : '+m.as+'</span><span>'+e(m.a)+'</span></div>'}).join("")+'</div>'}
+function fix(a){if(!a.length)return'<div class="card"><div class="empty">예정된 경기가 없어요.</div></div>';
+ return'<div class="card">'+a.map(function(m){return'<div class="row"><span class="d">'+fmt.format(new Date(m.t)).replace(/ /g,"")+'</span><span class="h">'+e(m.h)+'</span><span class="s">vs</span><span>'+e(m.a)+'</span></div>'}).join("")+'</div>'}
+function tbl(a){if(!a.length)return"";return'<h2>현재 순위</h2><div class="card scroll"><table><tr><th>#</th><th>팀</th><th>경기</th><th>승</th><th>무</th><th>패</th><th>승점</th></tr>'+a.map(function(r){return'<tr><td>'+r.p+'</td><td>'+e(r.n)+'</td><td>'+r.g+'</td><td>'+r.w+'</td><td>'+r.d+'</td><td>'+r.l+'</td><td><b>'+r.pts+'</b></td></tr>'}).join("")+'</table></div>'}
+function render(){
+ if(!D)return;var h="";
+ if(cur==="kr")h='<h2>국가대표 · K리그 뉴스</h2>'+news(D.kr);
+ else{var l=D.leagues[cur];h='<h2>주요 뉴스</h2>'+news(l.news)+'<h2>최근 결과</h2>'+res(l.results)+'<h2>다음 일정</h2>'+fix(l.fixtures)+tbl(l.table)}
+ document.getElementById("view").innerHTML=h;
+ document.getElementById("tabs").innerHTML=ORDER.map(function(k){var n=k==="kr"?"국가대표·K":D.leagues[k].name;return'<button class="tab" role="tab" aria-selected="'+(k===cur)+'" data-k="'+k+'">'+e(n)+'</button>'}).join("")}
+document.getElementById("tabs").addEventListener("click",function(ev){var b=ev.target.closest(".tab");if(b){cur=b.dataset.k;render()}});
+fetch("data.json?"+Date.now()).then(function(r){return r.json()}).then(function(j){D=j;
+ document.getElementById("upd").textContent=fmt.format(new Date(j.updated))+" 갱신";render()})
+ .catch(function(){document.getElementById("upd").textContent="데이터를 불러오지 못했어요"});
+</script></body></html>
