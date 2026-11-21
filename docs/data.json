@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:41:39.497Z",
+ "updated": "2026-11-21T12:44:30.868Z",
  "leagues": {
   "epl": {
    "name": "프리미어리그",
@@ -77,13 +77,6 @@
    ],
    "fixtures": [
     {
-     "t": "2026-11-21T12:30:00Z",
-     "h": "맨시티",
-     "a": "풀럼",
-     "hs": null,
-     "as": null
-    },
-    {
      "t": "2026-11-21T15:00:00Z",
      "h": "첼시",
      "a": "리즈",
@@ -145,6 +138,13 @@
      "a": "에버턴",
      "hs": null,
      "as": null
+    },
+    {
+     "t": "2026-11-27T20:00:00Z",
+     "h": "노팅엄",
+     "a": "첼시",
+     "hs": null,
+     "as": null
     }
    ],
    "table": [
@@ -169,11 +169,11 @@
     {
      "p": 3,
      "n": "맨시티",
-     "g": 10,
+     "g": 11,
      "w": 7,
-     "d": 0,
+     "d": 1,
      "l": 3,
-     "pts": 21
+     "pts": 22
     },
     {
      "p": 4,
@@ -267,21 +267,21 @@
     },
     {
      "p": 14,
+     "n": "풀럼",
+     "g": 11,
+     "w": 2,
+     "d": 5,
+     "l": 4,
+     "pts": 11
+    },
+    {
+     "p": 15,
      "n": "입스위치",
      "g": 10,
      "w": 3,
      "d": 2,
      "l": 5,
      "pts": 11
-    },
-    {
-     "p": 15,
-     "n": "풀럼",
-     "g": 10,
-     "w": 2,
-     "d": 4,
-     "l": 4,
-     "pts": 10
     },
     {
      "p": 16,
@@ -331,22 +331,28 @@
    ],
    "news": [
     {
-     "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어” - 동아일보",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2d3VIZlFGdk9CTVRSWDMweEM5cF9fSTFmeWI2M294YXNpR3hodXotNzRWbnpVSlNWNkdIOHBVWmJWS2loXzVQLWt4NjVoazFXZUNySUJ4VkxVUk1GQmxQWG13RWRFWlhDSXZxZnVQRWx2bFcy0gFmQVVfeXFMTk5ydWVKS2xVZDdGYUg3WnFacmVLZXVQU0ZKcUVwdUFTU2lVS0tBWXI2eGRhYXM5NzdBT1AtblVZaTRKQ1FkREdrbmpvR0xad1NjS3cyaV9MTmFobUlCVExqNjZNUHB3?oc=5",
-     "src": "동아일보",
-     "date": "Sat, 21 Nov 2026 06:18:09 GMT"
+     "title": "[EPL] 맨유 새 사령탑 포체티노, 첫 기자회견 지각…\"샤워할 시간도 없었다\" - 뉴스핌",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95ZmZ2X3JTWXpPRk9KR2ViT3hDQUg1b2RFU1BaM202LTBWU0R5ZExMLTFmUV84emJmSW9Ec1RIY2xMSXhUSW5yTHVZbVVvQlpXdEtMRlpjS2hnNVRC?oc=5",
+     "src": "뉴스핌",
+     "date": "Sat, 21 Nov 2026 12:11:00 GMT"
+    },
+    {
+     "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…\"샤워할 시간도 없었어\" - 뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UNUd2NlAtdWlGN1lxZDVUY2paM3JUWG1QSEplN2ZITEV6a2YybkRZa3RDbmx2aXBheTMyS3VMd1pzYVh3SzdicDF5R29qUjRuQXd1LUhYb3dobVczWXpFNtIBeEFVX3lxTFBkMi1hY0tQYmZjUGptcGxzdU1HVzdLcjIzVU9GYjBqcTRPZ0M5cm5GQXdKN2p0dVpES0xkMV9UNVBYcDBDYWVHSTF2NnZpT1NZdWxnTFZWVUVDTDFqbEhLOVZOZjViVnBPbk5wV3QtLTNLNUFKRkgwbg?oc=5",
+     "src": "뉴시스",
+     "date": "Sat, 21 Nov 2026 03:23:38 GMT"
+    },
+    {
+     "title": "실시간 축구 경기: 맨체스터 시티 vs 풀럼: 프리미어 리그 11라운드 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd1FrMkhzYkZNOVVqQjBkTzBWVDNlVHJmcnJiSXlhN01qQkpDNC1xaUtjMndJbHVEWmg1QVVRdzV0MUtRUlNwczJySFBjcW1ZbFZEalVqeUpENGJQbm53LUVmVnYwNmJfdGE2cjN0SDJOUTR2NUQ3b0JaVmNZZDNtdUN1LWFMQm0xNHRGbFN3?oc=5",
+     "src": "Vietnam.vn",
+     "date": "Sat, 21 Nov 2026 11:37:08 GMT"
     },
     {
      "title": "“강등 없으니 압박도 없다” MLS 향한 뮐러의 지적 “좀 더 안일해지는 것처럼 느껴” - 스포츠경향",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVT3ZELTgyS3loazlXZTY2d2N6MU9TSzhpcDlTUjl0aDBLdU5kUWNES1l1V0stZUJucmxQakVTdWFEVDVIUS01RWtOb1ZTdEtEd0VtcDUtUTNKdUlEU0HSAWNBVV95cUxNdUtXNHA0Z0g3QmpucHNvd0EyTDVSQmYxRWQwTlVrTXI1OWZxQnpLNzduRkhGeFd0eTE0NmVMY1E5V0hXZGNrVkFFR1dhdUVMSXZ3MVE5dmZlT2dSTkczYzZTanM?oc=5",
      "src": "스포츠경향",
      "date": "Sat, 21 Nov 2026 00:52:00 GMT"
-    },
-    {
-     "title": "주말 축구 하이라이트: 맨체스터 유나이티드 vs 리버풀 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakM1TS1EYmtLZTN6bVJYNlVpMDRFbjBiLUdQdFJzZVBKX0U2YmVCYjNiRmpBaVQzLU1QV3hqUmZ2aThmVDAyQkc1N0g5TXh5dWJjNVJQNXFmMXY5SDhkcVhYQldVN1E5SXF3bGZIYUJtUTlqOGt5bDhGVVhQREhBWUUxcGtUeExxcFpn?oc=5",
-     "src": "Vietnam.vn",
-     "date": "Sat, 21 Nov 2026 04:04:21 GMT"
     },
     {
      "title": "'韓 축구' 미친 희소식! 김민재 EPL서 '러브콜' 폭발, 토트넘-아스날-아스톤 빌라 동시 관심...뮌헨도 '매각' 고려→이적료 '440억' 책정 - 마이데일리",
@@ -359,12 +365,6 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teXQ0cTd5XzZBMEdfX2FISnQ0cERwdm1hWFZ4M083UHJmZllYaEUzUklyMkI1YlAzZXJCakJ1NFBhcHJDYTdlQ01BMXZGMk52QjhWeEZKazY4dkt1R2lTYkpQQ3BBWVFmQnMtcld3dDc?oc=5",
      "src": "SPOTV NEWS",
      "date": "Sat, 21 Nov 2026 09:20:00 GMT"
-    },
-    {
-     "title": "'감독 교체에 1673억·미지급 이적료 7343억' 맨유, 포체티노 체제 출범부터 드러난 천문학적 재정 부담 - 조선일보",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR215alFTYjJCX09UQVZQdGF2VEJ2UXg1Q2lVRFkyVldLQWF0S1l0OE81OEdhZUZ6QlBfQWFMMjJoUmlkSzJRdFBOVXJGQXJrcjNCMDhCVU5OUWkzTTFrYjY0X1VBRUF5THdpZmY3SDhhQVJmVExiT2RsZ002X3FZMS0tUWZ5VXQ2bktn?oc=5",
-     "src": "조선일보",
-     "date": "Sat, 21 Nov 2026 08:46:00 GMT"
     }
    ]
   },
@@ -698,22 +698,10 @@
    ],
    "news": [
     {
-     "title": "레알 마드리드 대 셀타 비고 축구 예측: 비니시우스를 깨우다 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRU9odUN6REJEX1o4Z0pONlR4dE14dnV3akNuQnlVRHdlSDJBNU1pUGZUU1Nna09KSy04aC14RllOS0NGX3ZYRmhjZVVJdW9XaXBpVWVUT1VrWnZFdHBnR2NGbUZLVE1sQzFHcnlZTjlONmxhM1RXZnVSZ1JxU3prTnBZdWFBdVFWN1dncWxnYzZadw?oc=5",
-     "src": "Vietnam.vn",
-     "date": "Sat, 21 Nov 2026 03:22:16 GMT"
-    },
-    {
      "title": "'이강인의 시대' 선포하나 - 뉴데일리",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44ZVg2WFBnR2FZSmw4YVBaUHBHYjc4b1ZoT2dpV01XcWxqamtpZFFVbFRUanlWWGJFbER2TU5sdkFJMkRJQkxPcmlGV2FfTi1DZndia3NBR2pGa1hUV2RfUTlVbXZHcy12LXIzUS1ValZJTm9CTXRUd2hCc9IBgAFBVV95cUxNR1ZYeUtQbmh6eGJYSWV5OVNkUmJfcl9yZVdhUDdIem9WeE9ZTlZiLTBiRV9GLXpxQUxkSTNLOFdNQ2poc1JTMmQ1bmx1U0JjQTVBQ2o0S0VYRkdQcEh3OTllSWpoeU5DN1Z0b3hkNW5tbUhscm9hcWdQTkZzdVVrRA?oc=5",
      "src": "뉴데일리",
      "date": "Thu, 19 Nov 2026 00:15:00 GMT"
-    },
-    {
-     "title": "유럽 7대 리그 뒤졌더니…이강인보다 위에 있는 선수, 단 한 명 '음바페' - 데일리25",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eUZuVmVsTTdNSFpZYVlkdmpYaXFpNEctc3VqVlFHWjQ3SVlYenlMOV9udnZYWnVrMTBQRENsdkxaMGpDc0EwaWEyMHgxZ1Y2VlVCXzJiWkF3MXVfVjB4QzkxNmVXZ3BBSkdzVg?oc=5",
-     "src": "데일리25",
-     "date": "Fri, 20 Nov 2026 17:53:35 GMT"
     },
     {
      "title": "경기 중 골키퍼와 충돌…30세 스페인 축구선수 사망 - 한국경제",
@@ -722,16 +710,28 @@
      "date": "Tue, 03 Nov 2026 08:00:00 GMT"
     },
     {
-     "title": "[오피셜] 레알 마드리드, 뒷문 철저히 지킨다...'세계 최고 골키퍼' 쿠르투아와 재계약 발표, 2028년까지 동행 - SPOTV NEWS",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HMDc2RzNZY3JLa1pXMGVRLVdGM21LMW9ZV1FlWGxfX3duVjJ4UUJqS0NwbzJ2STc5a2J2LXdJXzdGejhDU0E3WGJpZXcwUUxrdFJDQTloNmVacnN3SXJDQXE2V2lyUVpoX1Y1b1V3eWs?oc=5",
-     "src": "SPOTV NEWS",
-     "date": "Fri, 20 Nov 2026 12:22:13 GMT"
+     "title": "`이강인이 없다`…아틀레티코 시메오네 감독, 라리가 재개 앞두고 새로운 포메이션 시험 - 마이데일리",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvd1NXYWF4bm12TjBTX1Q1M2tyNTUyd3Q2a3NOT3EwSUV4eFc4RV9DYm1JUkNHX3RGSVN4TXpKRHhRY0hiVVp3b21ZVGZfY1hIVFFtV0dnSmNxcjlYc19jdQ?oc=5",
+     "src": "마이데일리",
+     "date": "Sat, 21 Nov 2026 10:05:00 GMT"
     },
     {
-     "title": "12경기 1골 충격적 침묵… 라리가 레알 비니시우스가 밝힌 올 시즌 부진의 이유 - FT스포츠",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94MExCY0F6SDJ0bFhlYjk0QWpoTFhEY1NQbU00WkhhQk96VmNqa3hQS0pqQTA3eDZBZ1RKVFRBUGJmWkxIWFJST1JETEtVNjBuZXNkOHhTdW94VHdDdlZQeGxyYTlMQQ?oc=5",
-     "src": "FT스포츠",
-     "date": "Tue, 17 Nov 2026 16:08:07 GMT"
+     "title": "유럽 7대 리그 뒤졌더니…이강인보다 위에 있는 선수, 단 한 명 '음바페' - 데일리25",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eUZuVmVsTTdNSFpZYVlkdmpYaXFpNEctc3VqVlFHWjQ3SVlYenlMOV9udnZYWnVrMTBQRENsdkxaMGpDc0EwaWEyMHgxZ1Y2VlVCXzJiWkF3MXVfVjB4QzkxNmVXZ3BBSkdzVg?oc=5",
+     "src": "데일리25",
+     "date": "Fri, 20 Nov 2026 17:53:35 GMT"
+    },
+    {
+     "title": "레알 마드리드 대 셀타 비고 축구 예측: 비니시우스를 깨우다 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRU9odUN6REJEX1o4Z0pONlR4dE14dnV3akNuQnlVRHdlSDJBNU1pUGZUU1Nna09KSy04aC14RllOS0NGX3ZYRmhjZVVJdW9XaXBpVWVUT1VrWnZFdHBnR2NGbUZLVE1sQzFHcnlZTjlONmxhM1RXZnVSZ1JxU3prTnBZdWFBdVFWN1dncWxnYzZadw?oc=5",
+     "src": "Vietnam.vn",
+     "date": "Sat, 21 Nov 2026 03:22:16 GMT"
+    },
+    {
+     "title": "[토토 투데이] 축구토토 승무패 69회차, 1등 적중 164건…1인당 596만원 환급 - 조선일보",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWN6R3BJeTZsUTJMOTRzM2ktMTlHN1lKV01JdUpMLURTWXdCLXFnb1B3VEhYbC1BV0hoZU1HRDF3SVBfMlozTmlRRlNla3BPMWd6dlpuZUFWcGdISzNqRzBaZEx1dTNpenNnM1FidnRzOVpBUzBla0owN2RCejYxMTF0Y1RQdmN6UWlv?oc=5",
+     "src": "조선일보",
+     "date": "Wed, 18 Nov 2026 02:34:00 GMT"
     }
    ]
   },
@@ -1444,10 +1444,10 @@
      "date": "Sat, 21 Nov 2026 00:46:44 GMT"
     },
     {
-     "title": "'분데스리가 54경기 연속 무패' 김민재 동료 센터백, 바이에른 뮌헨 레전드 넘어섰다…'역사에 남을 기록 도전' - 마이데일리",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54TmE1dm0zZEdFejBSMGJOTWM2MldyeG9FZnBMT1RFY2N0Z0Vta21TOS1ycldidXpYZGN1c3BPd1pLUWctUHZfSGNkUmd4REZrZzJUSlhtNTVCcklya2xDZg?oc=5",
-     "src": "마이데일리",
-     "date": "Sat, 21 Nov 2026 08:01:00 GMT"
+     "title": "[오피셜] '김민재 소속팀' 바이에른 뮌헨, 제대로 초비상 걸렸다...'발롱도르 위너' 헤리 케인, 부상으로 3개월 결장 확정 - SPOTV NEWS",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Yd3V6WlZhaHBpenQ2OHowYkNYVXQ2ZW16bWNQLXJxVDc4Mm9yZnZ4eE0zMVY1TmNXNHlPQ1V5MFN2cmtFdW9Bdk9DOERyNURXOEE2LTBQM1VtcHNkR1c5bGczN3c0alRLbUJtZjdOVEs?oc=5",
+     "src": "SPOTV NEWS",
+     "date": "Sat, 21 Nov 2026 07:51:24 GMT"
     }
    ]
   },
@@ -1839,22 +1839,22 @@
    "date": "Thu, 19 Nov 2026 08:35:07 GMT"
   },
   {
-   "title": "K리그1 챔피언 서울, 5경기 만에 승리…2위 울산은 인천에 덜미(종합) - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IZWk4andHTUJHRklsWWY1d2UzYjZYeDBlVk84cXhNLS1oTEFLb0xQLUJFSkVBeDFZVmRRM1JoWk1NRzRYU0xSRFA5SUJpaGFDRWl6S0Y0ZFhON1dIUjVledIBeEFVX3lxTFBMUHNvMERTWUJBOW5sMl9ONVhTcUFweGlZdDR5U2xtS1JObW92Nkw5MGNlN3BHVmZsZ0lsRjE4TGdsdWVjSzhMQVY2NTlZbnZfemdFUjlRQXlGS0s4WVc1UXJETzFNMklFc3dublFZY29zM3FDY1o3YQ?oc=5",
-   "src": "뉴시스",
-   "date": "Sat, 21 Nov 2026 09:33:36 GMT"
-  },
-  {
-   "title": "K리그1 우승팀 서울, 전북 꺾고 4경기 무승 탈출…안데르손 골 - 연합뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1memZvOWRKNUVrRGZxcTR3MUIySl8yV2tTUmZRRnNFS1gweXA5R3g5enFveHhNOE9SZmwwbmozSEI5UTFsc3hCUWRNQlRoLW9keWhpSnVQaTltYknSAWBBVV95cUxPSjd4RTZ2UEg4dWxIeG5Rcl9WWW9CVzhtTGxwMFNKamFIZUxYMzRvRWgtdFBQZDhaazBQakd3UzNHbk5BMzdvWU8zM1hsVDJ1MTVKeHZjU0FqOWttLS15YW0?oc=5",
+   "title": "K리그1 대전, 10경기 무패 행진…2위 울산과 승점 1 차이(종합) - 연합뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92QnNBcDFoYW1pcUFWb3RqV1k2WU4ydnhvVEFQbjBLNFYtalNJbm1ZOWZ3V29ZYlBIVHhqSkQtWXA3cWh3Nm0xMFQxNHpVTmJCbkxRc1p4em1TRjTSAWBBVV95cUxOUUg4VXdWcW4tc0E0SHdIVTdGdW1yaC0zUU5FY0ZEVkl2WW5peFRYV0dpSkRmV0o2Z0o1ckotY1dsWjdEOHFRN2FqeEtPVFVLaFZyY3RZa2FMUlNmT25rU0s?oc=5",
    "src": "연합뉴스",
-   "date": "Sat, 21 Nov 2026 07:09:35 GMT"
+   "date": "Sat, 21 Nov 2026 09:41:27 GMT"
   },
   {
-   "title": "'안데르손 환상 감아차기' 서울, 전북 원정서 1-0 진땀승…승점 70 도달 [오!쎈 전주] - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ic2VjMk5wY3VLaFVaS0l2MEJlbFRvMUxRcXpaOFlYOVB4dllEdDljczJPLTBqODlXU3JOSVZhV2Y2QnlNSUdWWXhCOVAtMmIyWUR1b1hB?oc=5",
-   "src": "네이트",
-   "date": "Sat, 21 Nov 2026 06:56:00 GMT"
+   "title": "K리그1 대전, 10경기 무패…2위 울산과 승점 1점 차 - SBS 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR05JUUt0aXdYcTdIMzBTT3dKcDdDcUo0RU5yNHcxS2VNWEMtbjlOMG5jSTFodnNfaTBaLU1VSEpFOWEzUHVybl9YNjltSndHV21sVUVCUERNNG1WdXczNmRFcVZPUmpUSnc?oc=5",
+   "src": "SBS 뉴스",
+   "date": "Sat, 21 Nov 2026 12:07:12 GMT"
+  },
+  {
+   "title": "[SPO 현장] 울산 김현석 감독, 올 시즌 끝으로 물러나는 이유는...\"아직 부족, 부족함 채우고 도전 해보려한다\" - SPOTV NEWS",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FWGx5cFN4MXpWV0lQZnVwZjRDUDhELTMySkt3M3F6a2hHc1JPWVl4cGNHN0dveEJrd283R3AyNC16cjl4emJVbi0wVXkyM2o3SU1UaVRISk9kWkZHRlQyeXZkbks3VFMyM19SYnNRcEo?oc=5",
+   "src": "SPOTV NEWS",
+   "date": "Sat, 21 Nov 2026 07:20:15 GMT"
   },
   {
    "title": "'이정효 매직' 제대로 터졌다! 수원삼성 K리그2 조기 우승 K리그1 승격 겹경사 터졌다! - 머니투데이 - 머니투데이",
@@ -1863,16 +1863,16 @@
    "date": "Sat, 21 Nov 2026 07:21:00 GMT"
   },
   {
-   "title": "[막바지 향하는 K리그②] 불꽃 튀는 다이렉트 승격 경쟁… 수원FC·이랜드·대구 각축전 - 스포츠월드",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVDRyUzJPc0pSU0FZeXgzT2FTU3REVTJlYTFyUm5Nc0doaUVYbGZSNkFINEZnaG0zZ0ZzZzJfeU40NXFSeHJIX2FId1c0M2tXcS1VSXhUeFZJTUItVWJvbWRB?oc=5",
-   "src": "스포츠월드",
-   "date": "Thu, 19 Nov 2026 22:00:00 GMT"
+   "title": "K리그1 챔피언 서울, 전북 꺾고 5경기 만에 승리…포항은 안양과 비겨 - 뉴시스",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dGtwaTVWZVpRVFREUVZ0cXRWbmZjSjBTdVY1dkF0SExDOWNKZi1tMzkwdk9QVzdZck0tc1FacVQzUXRLNWVqQW52aHpjbVZMekgxUHRLNHZLSUpvR1BHa9IBeEFVX3lxTE5sZ0VsR0FmU1loVVNydlh6X0w4MEdJT21fTDdDdTI4RllJUmxKUlJwUW0yZm80S2xLMWE1dlFSS1dFYXRhT1lSdUNxSnNhbEl6Y0s2Q0NsQ3dKRHZob2NXZmlQOVJfX1FfeFI2VDgxTXlzU3RfU1FDSA?oc=5",
+   "src": "뉴시스",
+   "date": "Sat, 21 Nov 2026 07:05:00 GMT"
   },
   {
-   "title": "\"오현규·오세훈, 1대1 훈련 안 한 거다\"…'K리그 199경기' 선배의 작심 발언! \"하루 30분 했다면 내가 사과할게\" - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wckZvYlEwVDIzQVVVVld2ZVRJS0NVQjN2RjNORjdISGphV244RXg5X3hvZ0hOT3Ywdloyc0F5akxzRndsVzJOQ2FNT0dUSXJ1XzhCYnpR?oc=5",
-   "src": "네이트",
-   "date": "Fri, 20 Nov 2026 15:12:00 GMT"
+   "title": "'K리그1 우승팀' 서울, 전북 꺾고 2연패 탈출…안데르손 결승골 - 뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NSTBmLTJTNXV5bXo0SjFDUmNYM216bHVGVzhPS05sblh6RnMzVW1RMi1iUW5LWi1aZTJySzVvTFFMVzl6S1Y0S1A3TW91MnRKWHdGcw?oc=5",
+   "src": "뉴스1",
+   "date": "Sat, 21 Nov 2026 10:11:36 GMT"
   }
  ]
 }
