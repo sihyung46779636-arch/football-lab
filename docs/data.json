@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:53:16.466Z",
+ "updated": "2026-11-23T21:45:24.121Z",
  "leagues": {
   "epl": {
    "name": "프리미어리그",
@@ -77,13 +77,6 @@
    ],
    "fixtures": [
     {
-     "t": "2026-11-23T20:00:00Z",
-     "h": "브렌트퍼드",
-     "a": "에버턴",
-     "hs": null,
-     "as": null
-    },
-    {
      "t": "2026-11-27T20:00:00Z",
      "h": "노팅엄",
      "a": "첼시",
@@ -145,6 +138,13 @@
      "a": "헐",
      "hs": null,
      "as": null
+    },
+    {
+     "t": "2026-11-29T16:30:00Z",
+     "h": "아스널",
+     "a": "맨시티",
+     "hs": null,
+     "as": null
     }
    ],
    "table": [
@@ -195,7 +195,7 @@
     },
     {
      "p": 6,
-     "n": "리즈",
+     "n": "브렌트퍼드",
      "g": 11,
      "w": 4,
      "d": 5,
@@ -204,12 +204,12 @@
     },
     {
      "p": 7,
-     "n": "에버턴",
-     "g": 10,
+     "n": "리즈",
+     "g": 11,
      "w": 4,
-     "d": 4,
+     "d": 5,
      "l": 2,
-     "pts": 16
+     "pts": 17
     },
     {
      "p": 8,
@@ -222,21 +222,21 @@
     },
     {
      "p": 9,
+     "n": "에버턴",
+     "g": 11,
+     "w": 4,
+     "d": 4,
+     "l": 3,
+     "pts": 16
+    },
+    {
+     "p": 10,
      "n": "토트넘",
      "g": 11,
      "w": 4,
      "d": 3,
      "l": 4,
      "pts": 15
-    },
-    {
-     "p": 10,
-     "n": "브렌트퍼드",
-     "g": 10,
-     "w": 3,
-     "d": 5,
-     "l": 2,
-     "pts": 14
     },
     {
      "p": 11,
@@ -343,10 +343,10 @@
      "date": "Mon, 23 Nov 2026 02:15:00 GMT"
     },
     {
-     "title": "실시간 축구 경기: 리버풀 vs 맨유: 프리미어 리그 11라운드 - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEoxdHh0dXNPZ0tkdW8xNGE1OUI1aWRaLVRVblFac1lWWGYtMkM4Ump5ckt2SjVTZ2NWZXc4dWJrNTIyTjM4WWhkcldxN2FXZ0pEMHJwYTROd2FjRjdIS01xZTFnem5DaDVPakI4bmFYQVViaWtNSllHYXEwbXVOZzlvZnNyTFYyOEE?oc=5",
-     "src": "Vietnam.vn",
-     "date": "Sun, 22 Nov 2026 21:18:04 GMT"
+     "title": "‘데뷔전 0-4 참패’ 포체티노, 맨유 100년 만의 불명예⋯강등권 19위 - 이투데이",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BcEo5XzVrVV9BT1BnMHRkNjZlVTE5RDlwa1REcmNObGtMb0JzeG14eUp3djdzVGpNaVl1WVFjWjhJR1daLUdhRUNRVTdLNDRVS2xxcw?oc=5",
+     "src": "이투데이",
+     "date": "Mon, 23 Nov 2026 08:57:00 GMT"
     },
     {
      "title": "[EPL] 맨유 새 사령탑 포체티노, 첫 기자회견 지각…\"샤워할 시간도 없었다\" - 뉴스핌",
@@ -355,16 +355,16 @@
      "date": "Sat, 21 Nov 2026 12:11:00 GMT"
     },
     {
-     "title": "역시! ‘韓 대표팀 주장’ 클래스, 손흥민 소신발언 “난 우승하기 위해 여기왔다”…MLS컵 우승 필사즉생 다짐 - SPOTV NEWS",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LY3BYUVN4dkhxY0M2TmZVLWlsSU9nM2c3bUxfeGx1V3V1WFRmUHBUcmlPNldSa2JhNFVraTBRRWI0UTRUUFJlNG4tYkFPOEI2NW05Y2NOUE5taG1yZ3Rkc084Vi0wRzBmZzNibnp2TUs?oc=5",
-     "src": "SPOTV NEWS",
-     "date": "Mon, 23 Nov 2026 11:40:00 GMT"
+     "title": "실시간 축구 경기: 리버풀 vs 맨유: 프리미어 리그 11라운드 - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEoxdHh0dXNPZ0tkdW8xNGE1OUI1aWRaLVRVblFac1lWWGYtMkM4Ump5ckt2SjVTZ2NWZXc4dWJrNTIyTjM4WWhkcldxN2FXZ0pEMHJwYTROd2FjRjdIS01xZTFnem5DaDVPakI4bmFYQVViaWtNSllHYXEwbXVOZzlvZnNyTFYyOEE?oc=5",
+     "src": "Vietnam.vn",
+     "date": "Sun, 22 Nov 2026 21:18:04 GMT"
     },
     {
-     "title": "\"내일 아침 경질될 거야\"…포체티노, 최악의 맨유 데뷔전 - 네이트",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nM2dQRl9NbUE2cmdPcFNBY3ZscVU0R3pTUlAwZ3htWkNsWENvdDNoenpCMFE2RkZfWDg4R2YyQXJKWWd5d2xyNDFpVmFxa3dOWWMwMGxvX2p4czZKellhNUN6ZkZuamFESEJFaUFhSFFTbmVXbllTUg?oc=5",
-     "src": "네이트",
-     "date": "Mon, 23 Nov 2026 02:07:00 GMT"
+     "title": "격변하는 UCL 판도… EPL 강세 속 5차전 관전 포인트 - 한스경제",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83bHVNbV8xY0stbkNlTmVzeEJHWTBCdXhHd1NkZkRsaGZJVXI3UGl4QUFaeTgtNTQxSlhXVHdkMVM0cHJIVjMzNFVJU3pIdER1S1o4TlN6ZmlxRkt5a3VBdW9adGNucUpSWWhkN9IBb0FVX3lxTFBEZTg3MWFqZzlEZnJuNjc0THdJMkpweDJySm1RQlRTQ1dNNnRRV1dxUmRJV3NBY19RTHdaR2R6V012NlBqRFFyZUZMODZ2ZDRMaWFXLXp4WGlhaXZsalp0ajBLNWRPMXZZbm15eDltTQ?oc=5",
+     "src": "한스경제",
+     "date": "Mon, 23 Nov 2026 21:00:00 GMT"
     }
    ]
   },
@@ -444,13 +444,6 @@
    ],
    "fixtures": [
     {
-     "t": "2026-11-23T20:00:00Z",
-     "h": "레반테",
-     "a": "엘체",
-     "hs": null,
-     "as": null
-    },
-    {
      "t": "2026-11-27T20:00:00Z",
      "h": "레반테",
      "a": "라싱",
@@ -510,6 +503,13 @@
      "t": "2026-11-29T20:00:00Z",
      "h": "소시에다드",
      "a": "세비야",
+     "hs": null,
+     "as": null
+    },
+    {
+     "t": "2026-11-30T20:00:00Z",
+     "h": "바르사",
+     "a": "헤타페",
      "hs": null,
      "as": null
     }
@@ -643,6 +643,15 @@
     },
     {
      "p": 15,
+     "n": "엘체",
+     "g": 13,
+     "w": 3,
+     "d": 4,
+     "l": 6,
+     "pts": 13
+    },
+    {
+     "p": 16,
      "n": "라요",
      "g": 12,
      "w": 3,
@@ -651,7 +660,7 @@
      "pts": 12
     },
     {
-     "p": 16,
+     "p": 17,
      "n": "발렌시아",
      "g": 13,
      "w": 3,
@@ -660,7 +669,7 @@
      "pts": 12
     },
     {
-     "p": 17,
+     "p": 18,
      "n": "헤타페",
      "g": 13,
      "w": 3,
@@ -669,22 +678,13 @@
      "pts": 12
     },
     {
-     "p": 18,
+     "p": 19,
      "n": "레반테",
-     "g": 12,
+     "g": 13,
      "w": 2,
      "d": 5,
-     "l": 5,
-     "pts": 11
-    },
-    {
-     "p": 19,
-     "n": "엘체",
-     "g": 12,
-     "w": 2,
-     "d": 4,
      "l": 6,
-     "pts": 10
+     "pts": 11
     },
     {
      "p": 20,
@@ -738,6 +738,13 @@
   "seriea": {
    "name": "세리에 A",
    "results": [
+    {
+     "t": "2026-11-23T19:45:00Z",
+     "h": "몬차",
+     "a": "피오렌티나",
+     "hs": 3,
+     "as": 0
+    },
     {
      "t": "2026-11-22T19:45:00Z",
      "h": "아탈란타",
@@ -800,23 +807,9 @@
      "a": "레체",
      "hs": 3,
      "as": 0
-    },
-    {
-     "t": "2026-11-08T19:45:00Z",
-     "h": "피오렌티나",
-     "a": "유벤투스",
-     "hs": 2,
-     "as": 2
     }
    ],
    "fixtures": [
-    {
-     "t": "2026-11-23T19:45:00Z",
-     "h": "몬차",
-     "a": "피오렌티나",
-     "hs": null,
-     "as": null
-    },
     {
      "t": "2026-11-27T19:45:00Z",
      "h": "베네치아",
@@ -877,6 +870,13 @@
      "t": "2026-11-30T17:30:00Z",
      "h": "레체",
      "a": "아탈란타",
+     "hs": null,
+     "as": null
+    },
+    {
+     "t": "2026-11-30T19:45:00Z",
+     "h": "칼리아리",
+     "a": "밀란",
      "hs": null,
      "as": null
     }
@@ -1001,7 +1001,7 @@
     },
     {
      "p": 14,
-     "n": "레체",
+     "n": "몬차",
      "g": 12,
      "w": 3,
      "d": 1,
@@ -1010,15 +1010,24 @@
     },
     {
      "p": 15,
-     "n": "피오렌티나",
-     "g": 11,
-     "w": 2,
-     "d": 3,
-     "l": 6,
-     "pts": 9
+     "n": "레체",
+     "g": 12,
+     "w": 3,
+     "d": 1,
+     "l": 8,
+     "pts": 10
     },
     {
      "p": 16,
+     "n": "피오렌티나",
+     "g": 12,
+     "w": 2,
+     "d": 3,
+     "l": 7,
+     "pts": 9
+    },
+    {
+     "p": 17,
      "n": "파르마",
      "g": 12,
      "w": 2,
@@ -1027,22 +1036,13 @@
      "pts": 8
     },
     {
-     "p": 17,
+     "p": 18,
      "n": "사수올로",
      "g": 12,
      "w": 2,
      "d": 2,
      "l": 8,
      "pts": 8
-    },
-    {
-     "p": 18,
-     "n": "몬차",
-     "g": 11,
-     "w": 2,
-     "d": 1,
-     "l": 8,
-     "pts": 7
     },
     {
      "p": 19,
@@ -1083,22 +1083,22 @@
      "date": "Thu, 10 Sep 2026 07:00:00 GMT"
     },
     {
+     "title": "세리에 A 나폴리 대 토리노 경기 예측 - Laodong.vn",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQWpXaW9Oby10dmFyVFNkVURjdU16UVdJcy1vX1lDUnJlRG5SU3R5RFBxUTBMWTVNamRGR2I2WDJVcGZXR3ZxSEFiQ3l1cnRCLWg5TG5odU5wQ2hzbGY1YnYzWm9NSktUSW9nQk5wUDJXSFpXelJnWDBkYXA0TjA5UHVlZ29iOFRrNmNMc3UxZTBjcVdCMkRzMg?oc=5",
+     "src": "Laodong.vn",
+     "date": "Sat, 21 Nov 2026 09:51:33 GMT"
+    },
+    {
      "title": "'이탈리아 축구 누가 지루하대?' 놀랍다, 역사상 처음 세리에A 개막 후 40경기 연속 '0-0 경기 제로'…월드컵 3회 연속 탈락 후 의미있는 변화 - 스포츠조선",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zYTdxbDB5YjFvUDNRVkxXS2RSbjNsUEEtdFJsN2xXRFpVOXZpemxxVkpEa0g5WXU4ZUFwREt0UXhuSFhTYjZNRUEzY2g5UkRYX0xxRDQ5Ui16SFhZbTk3b0lDeG9XVFVwNTBJU21sTmpxQ3JfaDlidWxVUEhjUQ?oc=5",
      "src": "스포츠조선",
      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
-     "title": "맨체스터 유나이티드는 새 감독의 데뷔전에서 0-4라는 굴욕적인 패배를 당했다. - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOFpBMnFUcTRhNVFBczRZQVNtVlpMOEZJZEk2LXhaS24wTWZLWV80OWNVV2lJU0ZnQ1VrVnJtaW9sUXBxYlRvUkFuTTJOeXRQcnFibUhZMXI4LUFCNDFBWU1VR1c2WXJJS29pZ3haNWUtblV1TG5nNC1VUXNyRnBUTHhsRTFGUQ?oc=5",
-     "src": "Vietnam.vn",
-     "date": "Mon, 23 Nov 2026 03:31:15 GMT"
-    },
-    {
-     "title": "이탈리아 축구, 월드컵도 못 가더니...\"세리에 A 70명, 매춘 스캔들 연루\" 충격 보도→\"바스토니·레앙·블라호비치\" 실명까지 거론 - 조선일보",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN01sdkZnbUpoTUxGanVJcktFMjltMF91cEtfYjM1UkNYY1FVUm1jcEx2dHQyYjRHdXVJRVBMQWVleno2dE1OTk9xU1l2ek9SR2VpeU5LTmFVNS12Z0ZrSm5IQ1AtdjlUN3dPOU5hR1NNS2pJQkRGSmRXU1gyRFIyTkFCUEVCcDV1VTNj?oc=5",
-     "src": "조선일보",
-     "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+     "title": "월드컵 탈락에서 ‘9승 1무’ 세리에 A 선두로…가투소의 화려한 부활, 라치오 ‘26년’ 만의 우승 이끌까 - 스포츠경향",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BV0l4M3p0UUFSMl9TUDdqYmp4RnllUi1OV0ZHcms5U0xXdkpGb2NWc29HWEdBMlFUclFvQVpMVlZtME1tc3U5VTBLWkZ5XzJXSFE5bGwwZTZrdW1TNlHSAWNBVV95cUxQeWJBRU9xTXlOQUJadW9LTlVJUHRDaklCUDBnMklfMlN4UHVzNDRJWDJybFMtdzBlMkpjalJET1c4QVc2OHpiUndKOXVveUVYakxOd0pxLUx0blJTdl9QNWZmNVk?oc=5",
+     "src": "스포츠경향",
+     "date": "Mon, 02 Nov 2026 08:00:00 GMT"
     }
    ]
   },
@@ -1432,22 +1432,22 @@
      "date": "Sun, 22 Nov 2026 15:43:00 GMT"
     },
     {
-     "title": "카스트로프, 시즌 첫 선발 출전…묀헨글라트바흐는 0-1 패배 - 뉴시스",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2ZEdvem5ZSEJkczVqd2QxbTJiaFE0NUZkYkFrQWJwcEJwM0M5aGYzNlR0VS0zOVNYTGVRZ0hMVFNEbUVlRWo1amNUNWV5NnNFX3BrdkZyS1p3ZXpGTmZuNdIBeEFVX3lxTE1KZTFrNUlKTUxRNHJBREx4NndSNFcxdTR1aG5Cdjd2ODlMUkFuX1NkQ0F5R1dYNXZVLXlMaEF6Z2Y1MmtpcHByQ29HenFVajkwQ19BX210dGpxbE5uZmR2eURKWVBoSkpCUXpKNjBXczdRZE5QOEFMcg?oc=5",
-     "src": "뉴시스",
-     "date": "Sun, 22 Nov 2026 01:29:41 GMT"
-    },
-    {
-     "title": "카스트로프, 시즌 첫 선발 74분 소화…묀헨글라트바흐 0-1 패배 - 연합뉴스",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IYUJsMWpWSWcwdk1EZGVObnYwYm1HY0ZmWWlzVUplbEdLdlpqZElFZ01xaVYzT3hCekE0YjlPUnRweklOSGs1ZU5RRWJvSWE3Uy1xR19tX2ZXOHfSAWBBVV95cUxOUUtRYmZwcnNuR0t3ZW9EMGVMYjdhWTd4VHJ2d1RBaU1jaGZfbmZkN3gtR1F6OGVObjVfc05IUE56QmdabTV2eWVCYVpVU2w0bFVxMnlvM1A4QzhUMlVMNlo?oc=5",
-     "src": "연합뉴스",
-     "date": "Sat, 21 Nov 2026 22:10:26 GMT"
+     "title": "\"황희찬, 분데스리가 수준 아니야\" 독일 매체 충격 혹평! '韓 국가대표' 향해 쏟아진 맹비난→소속팀은 10경기 5골로 122년 역사상 최악의 불명예 - MHN스포츠",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DUmxDQTFxR0NlV0oxT0l1Z3pxeTBGWktpQV92TDFoRl9mc2RDZXVPd19zWTlVVUdoanBLRmNDUGZnUDg0eVd1MURNN2pXVVdVZG0taWU4cnA5ZkEwaEc4ZFg0SQ?oc=5",
+     "src": "MHN스포츠",
+     "date": "Mon, 23 Nov 2026 20:11:01 GMT"
     },
     {
      "title": "'비상!' 김민재 '교체+20분 활약' 간판 FW 케인·올리세 부상 교체···바이에른 뮌헨, 쾰른전 1-1 무[분데스·리뷰] - 네이트",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yc0ZLNEF5cjNfNHZBM1hSTWJPbU9Da2ZxclpWZVdka3VNNktBcXpONTZHU3ZtWUx3aVBnNmJxbGlrMkhCVVFuczhNa18tWkNMbUVaYW1B?oc=5",
      "src": "네이트",
      "date": "Fri, 20 Nov 2026 22:24:00 GMT"
+    },
+    {
+     "title": "'김민재 교체' 뮌헨, 쾰른과 무승부…케인 발목 인대 파열(종합) - 뉴시스",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CTXlQWmdsRFl3dnJMQVNMT1h1TlkyUmotbUREc2UyeHFoZk5XX1ZVN0hEa21lS1JpdFlSTnlOSzU4SzhDWExxV2M5dUUtNjJuOG9YRjhZMU91dl9XQWl0ONIBeEFVX3lxTE5tZER6OU5CUUthZnBrUmRDUEtDeWMxSG04V3NRX05tbzNzQ00xa2hYWXZEYllTZ3lSZFozdVU0X1ZVZjE3RUg5cWw4VjhYUElFTjJ2T3llY2FWaVV6dDRjM0hGWmdtZzA3eXpmeWZUY3lyRXV5d212LQ?oc=5",
+     "src": "뉴시스",
+     "date": "Sat, 21 Nov 2026 01:35:23 GMT"
     }
    ]
   },
@@ -1763,6 +1763,12 @@
    ],
    "news": [
     {
+     "title": "[오피셜] '이강인 공백' 너무 크다...PSG 초비상! 한 달 사이 '핵심 공격수' 2명 시즌 아웃→'차세대 에이스' 십자인대 파열 확정, 이달 말 수술 예정 - 마이데일리",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xZmE0SUNqZU5wdXNmYXZiSF9jWE5pV3Z2X1BHaVgwQWhydHI1S1ctWEUxbWFrNWx3ZE9fcjNEcV9sSFhrTDloZ3VMd1pCV0pNSmtrampaeXJWWl9Ed3BIRA?oc=5",
+     "src": "마이데일리",
+     "date": "Mon, 23 Nov 2026 13:34:00 GMT"
+    },
+    {
      "title": "[리그앙] 니스 마스코트 독수리 '메피' - 국제뉴스",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GM2xsNDNhQm45MHV6djQ2NW5NSzh0UThIMTVOVTU0TjdtUXhlME1CQ2ZHSjlEaEFuN3FtZDU3MWEzdEQ0anNtQkI0b1BrbE1RZS1EbkwwNHZCSjREakZpYWhKYzdHUFdVUVBjbFFR?oc=5",
      "src": "국제뉴스",
@@ -1791,12 +1797,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jNnAxZzVKZWVMazloUTlNRlhMRGQ2U0tnWnNBaFVmcmVsckNibmlNa09FVG9qY3VnVVVLS3pNbzVSWjE2TndKMkhVazhiU19mLXlkaHRR?oc=5",
      "src": "지디넷코리아",
      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
-     "title": "FC 모바일, 프랑스 프로축구 ‘리그앙 맥도날드’ 파트너십 이어간다 - 게임톡",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTm1JSHAwMDM0Uk5pNmE5Y3cweklMSGcxWGhMUFdUT213S3dWRTJBWllrRkNIR3E0VkpFalRwcDhVamNzbFg5dUhjXzIyc0RvRmhxcllTT294TllBZFhlLVNaSmJ1cGhCUTlHWQ?oc=5",
-     "src": "게임톡",
-     "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     }
    ]
   }
@@ -1807,6 +1807,12 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rZEJnOUNWZ08tNURlYWlkZm92VXRxbUxneDYtcEp1Uk1LSjc3ZDNqZDhfUFVKM2lZblRYVXU4ZXB0R01zSGR1OVhTc040cDNYTm1abWtzYzUwbUlrSjV4UmpvUjdTZ1U?oc=5",
    "src": "강원도민일보",
    "date": "Mon, 23 Nov 2026 15:02:01 GMT"
+  },
+  {
+   "title": "중국이 눈앞에서 월드컵 승리 놓쳤다! 2-0→2-2 무승부…그런데 감독은 \"자랑스러워할 만하다\" 칭찬 - 네이트",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MmllTWc0MHdrZ2hoTGdSWjAtTmlndUpoNWZhM1pRaUVGVkRyenpNd0lfcFMydlVoNjJxa0VsMWR6NXFNWXg0bm9vdzZuQ0FQUVd0WWJnSERCNWxNX0RtX1FfLTdGZVctQkRNUHotU2NIR09YWE5rQQ?oc=5",
+   "src": "네이트",
+   "date": "Mon, 23 Nov 2026 20:10:00 GMT"
   },
   {
    "title": "축구 국가대표팀 평가전 마치고 귀국 - 뉴시스",
@@ -1821,12 +1827,6 @@
    "date": "Thu, 29 Oct 2026 07:00:00 GMT"
   },
   {
-   "title": "\"일본은 4년 뒤를 보는데 우리는…\" 뼈아픈 탄식, 日 언론까지 조명한 韓 축구의 민낯 - 파이낸셜뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ZHJOUW94NXJOd29zb0ZrcjBrc21oZ0l0VHY2dUVRVGJBbUpMbE1sT00xVTE3VFd0dE5HT1dIYUxzY0pTcDZDYVRjWmhpYUFsY3VaV2FMb0J0dw?oc=5",
-   "src": "파이낸셜뉴스",
-   "date": "Mon, 23 Nov 2026 01:30:00 GMT"
-  },
-  {
    "title": "축구: 모레노 감독, 손흥민·이강인 포함 11월 원정 친선경기 소집 명단 발표 - Olympic Channel",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWRCc1FyUmx4VlZ6MzRJdzlxX0VkVU1yVm1vNVJRb2hXYTY3SEdjV2N0X2p6dldvV05ydUhKcnFZNVQ0Vkg3LWgxNEtOQ2dMN1pOeTZOXzJSREVrOGhHNEV5SFgyaERaMHAyWkZNT0F0cUtncTVwNmR6dk0zMzZYUUpBSHYzeVh0SXREWHVlVXg2MkU3ZjNFYmtwd0dDZC1Cbko0OUM5OGZENDV5LTZXVjB2S0MwQQ?oc=5",
    "src": "Olympic Channel",
@@ -1839,40 +1839,40 @@
    "date": "Sat, 21 Nov 2026 19:00:00 GMT"
   },
   {
-   "title": "[공식발표] 한국 축구도 바뀐다...'횡령·임금 체불 논란' K리그2, 2028년부터 25인 로스터 확정 \"재정 운용 건전성 높인다\" - 머니투데이 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydllMczNnLVY3WkdPN3VWYmtxclZXSGF5c1ZvRkNab2xROGhNcEJUS1BuVHE5YlBFU28tMTRLZk9zNDFWQVV6THJWZnpOckdnd1dzbjM0MnBxT1U0SjN5cWthbnBxdWZXVkHSAW9BVV95cUxOVHVNdFByZmNoYmNnRnYzQXktTW9rMDFlSWxCaGFXOG9kWmhpeW12bWZYWWktSVlCdGFDcnB1Qnl0V1dhUGxDZXRVSlpjR0dNdEFCSW40M3NNeTZlbmhpajV2UlNmU0p2aXhnMnVEck0?oc=5",
-   "src": "머니투데이",
-   "date": "Mon, 23 Nov 2026 05:59:00 GMT"
+   "title": "‘시민구단 부실 운영’ 고개 숙인 K리그 - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHRQNHBTT0FLYXl0LVpQUTRjVjZGZXpXVTVrcFpQM1pmaFNSMXNPSWg5NXZzbmdLOG41a3hwTjAzcjluSDRjTzNBM2NXaFRMVWF1Q2lQZ2k1OHdTOU56eWl0WUYtQVJ3UlBCVFRfZHhBbVlnaklMRTd3UXNDTm9RbElVajhjQ1Bzc0Y4TVRIeFM?oc=5",
+   "src": "조선일보",
+   "date": "Mon, 23 Nov 2026 15:53:00 GMT"
   },
   {
-   "title": "화성FC, 2년 만에 K리그1 플레이오프 진출 - 인천일보",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNjNma09haWg1S2lvQ0oxZGpldmIyV3ROVnJWMjAtOU1OYTFvUWh6cmFpdDdYc1FEMVN5QnVjV3BuZFZmQnJmZFBjV2ltQXhPMEhuT0ZoMzNyU0FIbHNzNktjY2JiR3FtT055Q1M3Q3E?oc=5",
-   "src": "인천일보",
-   "date": "Mon, 23 Nov 2026 02:05:00 GMT"
+   "title": "돈 줄줄 새던 K리그 시민구단…부실운영 막고 유소년 키운다 - 중앙일보",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TSk9EcFNkRXItbFJZeWkxLXNURHhXclNhS2pmSnJoQXQwSk9YMjBZQTZqemR2UVlvY251bkN5NGFqTjNBV0Fza2R3MU9JY1lNNC1KUU1R?oc=5",
+   "src": "중앙일보",
+   "date": "Mon, 23 Nov 2026 15:01:00 GMT"
   },
   {
-   "title": "K리그2 김포FC, 10월 K리그 ‘이달의 틱톡 모먼트’ 수상 - 기호일보",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90TlVwemdYLWV1bUhWMEJ1WUlCM2o0X1hCSkJZY041R2cwWmk2SnlpMF9vWlNMVG4tRmt1eGl5ajFUOHRacUV6VEo0elBKTWdsd1JDZktGY3N1Q3dHdEp4MWd5dFA4dmI4aWJPbGdyRQ?oc=5",
-   "src": "기호일보",
-   "date": "Mon, 23 Nov 2026 05:42:11 GMT"
+   "title": "'슈퍼매치'에 '수원 더비'까지 돌아온다…2027 K리그1 흥행 기대감 - 뉴스1",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lNERVTjJvekM2UFd5elJjc3RkX3U0UkNfejM3MTRzZnVYNmRHWmlPYUNMdzhsdzlWZG1JRThWVFJ0dlplZC1NclpwMVdOOHF1QWdHcw?oc=5",
+   "src": "뉴스1",
+   "date": "Mon, 23 Nov 2026 21:38:00 GMT"
   },
   {
-   "title": "수원 삼성ㆍ수원FC 나란히 K리그1 승격⋯준PO 진출 4팀도 확정 - 이투데이",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ObGxCME1yMEVGcFlaSWo5VC04anNSNTdpUkZ6TGtRNElhTndaeDVqTXJzSmdTOFpIUlpBTmlIY2kzbUQ1NjIwZk9PaDNQZW12ZDFTVg?oc=5",
-   "src": "이투데이",
-   "date": "Mon, 23 Nov 2026 00:37:00 GMT"
+   "title": "부활하는 ‘수원 더비’… ‘축구 수도’가 K리그1으로 돌아온다 - 경향신문",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ZkZFOVBRN2VoOHAwc3M3aXl5X1BNd0ZpekZNRC1LRFZXeUdCeDV0TW9NYTFkRTdHb3dvb3VrbFVsblhicDBSYk9QUjF0NllPeXNiT2xlbURlZ9IBX0FVX3lxTE1CUzZwVlEzTVFWemVCNHVmYWtHbDZFV0NkMmI1VW9vaWxJZFEtUno0V01NTjJfVkV1Zm1NYUpZRmZwaWg0dFJuMTN2RWhoMUVHTlZocjl0bXllWVZObHQ4?oc=5",
+   "src": "경향신문",
+   "date": "Mon, 23 Nov 2026 06:58:00 GMT"
   },
   {
-   "title": "승강PO 앞두고 현미경 분석 '상승세' 광주 이정규 감독이 밝힌 가장 까다로운 K리그2 상대…이 선수 있는 '○○'[SS현장] - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZWlU5Z1dUeExiWFBxbWdya3dwWEFycUJ4OXB6empoVWRaSmVnbF9QVUlJT1VoTUJxU3BOdExCYnd6VnVpNjlOTldGbnhVZHZpZ19GUWx3?oc=5",
-   "src": "네이트",
-   "date": "Sun, 22 Nov 2026 22:23:00 GMT"
+   "title": "'추락은 짧았다' 프로축구 K리그2 수원FC, 강등 1년 만에 K리그1 복귀 - 경기신문",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNbEZxLXk0dFJNT2plQ2ZfamxSODdMZlQ2VzQ3YnVmcWZGYkx1YWlPSjBYQ09iNWJJYUJhY21uTnVxRkVkaHVLNzdoUzNmWmJYeU0xWVZCbE4tX0QwOVFuUkJB?oc=5",
+   "src": "경기신문",
+   "date": "Mon, 23 Nov 2026 04:57:36 GMT"
   },
   {
-   "title": "[현장핫피플] ‘공격포인트=무패’ 10월 이달의 선수상 바 루아의 자신감, “K리그1 어느 팀이든 준비 완료” - 스포탈코리아",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkU5TmJzNE9NRDIwTnR1MDZCQ1ExenU1LUpMWm5faVNxS1dOdm40ZDZ5cVRFQS1oYU96d0tHSVpnbUNNOUFoZ09OTkpYSTkzYTZQNWFIVlk1eGdVbzhic0p2aWlyZ3VKNDA3RXZuU0owSndkUFg5ZjhjSzREdWZnSkt3?oc=5",
-   "src": "스포탈코리아",
-   "date": "Sun, 22 Nov 2026 23:10:00 GMT"
+   "title": "'횡령·임금체불' 사과한 K리그…2028년부터 선수 등록 25명 제한 - KBC광주방송",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85emhFWTJhamt4NzBta2JrQWRvQVZvcm5mQVFRaE96S194TTFxcGZqeXdzUjg0U25ubWdUc1ZkLUVyV2Q2eExJNzFPaUtSRWlXTXlfLWVGYTI1dTlXcmZ5Ng?oc=5",
+   "src": "KBC광주방송",
+   "date": "Mon, 23 Nov 2026 04:09:18 GMT"
   }
  ]
 }
