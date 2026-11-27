@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:53:37.848Z",
+ "updated": "2026-11-27T07:05:46.590Z",
  "leagues": {
   "epl": {
    "name": "프리미어리그",
@@ -331,6 +331,12 @@
    ],
    "news": [
     {
+     "title": "EPL 라이벌들, ‘규정 위반’ 맨시티 맞서 법적 대응 협력 - 조선일보",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWVYOUFRQmZ1TjlrZ0xqVm1aLVprOE1LMkp6U2I0RFdlbXVrTzNOWmI3ampwdC1UWEt2Uk9HNnBTbVJIRndBRjVjYnZZT3JBUkZZbUlMdmFiSUZhWERYLUlldnhvc3ktYldKbTVaTVVWTU9kTmM5VmdWdHN0ME8zQjhNa0VyMDQ1ZXlz?oc=5",
+     "src": "조선일보",
+     "date": "Fri, 27 Nov 2026 06:14:00 GMT"
+    },
+    {
      "title": "프리미어리그 2026/27 득점 순위 & 도움 순위 | All Football - 懂球帝",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QT29YbEN6alU0Uzh3OFRDRnlwcGFuRTRSWXU4ajR0Ny1VWjlHY1ZmS2NiODhwWXY1Y3hfNmhScG1IZnB1bzJOYzVranhrS294eFdTR0psUFVHclk?oc=5",
      "src": "懂球帝",
@@ -343,28 +349,22 @@
      "date": "Thu, 26 Nov 2026 23:19:00 GMT"
     },
     {
-     "title": "심판이 경기 중 술에 취했다…아챔 도중 ‘음주 판정’ 논란 불거져, 관계자들 “전혀 근거 없는 사실” - SPOTV NEWS",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BRFlvRlhfZ0pHZmJ3LUdjdUZTa3pSNEhfN25jeW5ob2QzWGphdDFTNHlLeDNfV2xJVlR1WnhicGdWU2x1MWIxZzhQVEUyVE1PVWwtdEp3M0hsaEFoRGhPTERibXJzMjBjaF94V2xhOVM?oc=5",
-     "src": "SPOTV NEWS",
-     "date": "Fri, 27 Nov 2026 01:00:53 GMT"
-    },
-    {
      "title": "10명으로 셀타 비고 꺾은 본머스…유로파리그 5전 전승 - 이투데이",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NWVV5a01XeDhzaHJ0STIzY3RVYmJyTXhxNlVqdmRkRm1TdjZMa3VQWENqaU5iLWhKU3Z0RElOLTB5SS1GU2F6VUdRZ2U1Mkp5aXdmQQ?oc=5",
      "src": "이투데이",
      "date": "Fri, 27 Nov 2026 00:33:00 GMT"
     },
     {
+     "title": "관중과 경찰 충돌, 30분간 경기 중단…오현규 59분 뛴 베식타시, 외부 변수 딛고 '유로파리그 3경기 만에 짜릿승' - SPOTV NEWS",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DMk9IVFBjWGd0LWstT2dMY3RiRlpFSDRESElrTzVpRnBTQ2dBTWo0bS10dWZsQmNYWi1EVmp2VVc2YUNaVXlhcGVOUXRVYVVQdTdKOFNJOXJmWHRzU2xGbWIwckUtcWFpdGt6Wk43dFU?oc=5",
+     "src": "SPOTV NEWS",
+     "date": "Thu, 26 Nov 2026 23:59:32 GMT"
+    },
+    {
      "title": "리버풀-맨유, 안필드서 프리미어 리그 경기…도르구와 아라우호 경합 - 국제뉴스",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWX0dKTmRZUVM2QW5Nakdfd0dGZnNhNGFxem45d1poYXpxR19yWDdBRnFrLUE3WGJxODE3ZDYzcDJOZ29iWnR2MEE3bjNLeHF2Mk9tMFZlUWZhVEExMTYxVFFsNmJ6SlB3TDNodTRR?oc=5",
      "src": "국제뉴스",
      "date": "Thu, 26 Nov 2026 11:55:58 GMT"
-    },
-    {
-     "title": "이것이 맨유 무너뜨린 팀의 저력! 유로파에서는 퇴장도 이겨내고 역전승 거둔 본머스, 1위 질주! - 풋볼리스트",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5Y3J5cWFWZm4yNGNKWjlicElyY056SngySkxWTFFHaGd3SGZ1cXM5RmpPLW1YRGtWX0V5Mzl2QThNVndyb1dPX0lZNW9URHYtRm9CVTV3UGZuczJzMjdOLXJpdjNwNjJ0bjZicHhBWDlUUQ?oc=5",
-     "src": "풋볼리스트",
-     "date": "Thu, 26 Nov 2026 21:03:30 GMT"
     }
    ]
   },
@@ -1071,6 +1071,12 @@
      "date": "Fri, 27 Nov 2026 03:30:08 GMT"
     },
     {
+     "title": "세리에A 2013/14 최종 순위 – 리그 순위표·승점 | All Football - 懂球帝",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDdXROQ1hYVHFkVkllVUQxdEpnVzdwX0ZhNmoxTXdCTm5lLXNPTlQ2NUpfLXluYXd5WlRnYzR0LTRud1Z2dER6RkVLNDNPTEM4aVZMcXc2R2xPZw?oc=5",
+     "src": "懂球帝",
+     "date": "Thu, 26 Nov 2026 07:15:02 GMT"
+    },
+    {
      "title": "11월 27일 오늘 축구 경기 일정: 주요 경기로는 V리그와 2026년 U17 월드컵이 있습니다. - Vietnam.vn",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2xiWTlqcjE2aGsxTWhBdTJGaXlvd0Zpcnlzam8wVU1qWWFwWmlDVnNmTmItdFdNOTU1ZEF4Y1pDV0lpUElZTERTVE9NN3A1TTF1eklDbGlSS3NSZ1paaGg3Zko1YWk4ZUwwRzhZNjdEWFJuVHVZOExSb2ZzUHVqQVJQWnNmcHZ0aWdWYy1hdEM3N1NlYkJ1NWdkNGVfOG9jd0E?oc=5",
      "src": "Vietnam.vn",
@@ -1087,12 +1093,6 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gck9jS3BuUzBLMEpHbUs0Z0pKaXFqcndnc19tVEtOam8tczZRR0daZkU2dE9mN282eGc2TXdYR3prdy1nWFFlVFdiU25Id214N3F1NEVQX3hVRkJRR0hLa19iVTVEZw?oc=5",
      "src": "마이데일리",
      "date": "Fri, 27 Nov 2026 01:33:00 GMT"
-    },
-    {
-     "title": "엔리케가 인정한 가스페리니의 로마 “이번 시즌 가장 힘든 경기” - 스포츠경향",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3ZzJpa0xHQUtKblZDZGJWNnl0RXJPcFlWd05NaFE4NllBbEZLaWw2NnNKVHhvU0sxWUJaVExJaEYwYXQwUU8xdFhVQ25UUHUtSUdhVEE4Y0ppUEZiWUHSAWNBVV95cUxPT0IwcGFZNXByZHhTZ3pzSlZ6dW9TWXlhcjJhajhJeGJmVnU5MlhJbjFlMTVsT1JMTlUwSGZQRUNLdUlILWRUTVhzNFY1ZjI2Zy16V25zUXl1YldKME50VUpkTHM?oc=5",
-     "src": "스포츠경향",
-     "date": "Thu, 26 Nov 2026 07:05:00 GMT"
     },
     {
      "title": "\"저점 매수 기회\" 글로벌 '큰손' 축구에 빠졌다…이번엔 이탈리아 세리에A - 아시아경제",
@@ -1426,28 +1426,28 @@
      "date": "Wed, 25 Nov 2026 10:39:00 GMT"
     },
     {
-     "title": "“고장 난 피자 화덕 취급 말라” ‘KIM동료’ 발작·부상에 연봉 삭감 압박한 뮌헨, 전방위 역풍 - 일간스포츠",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IYzFwUU1vOXRWTFZrRnRLQnNhSzNqYk1GUmdkNTNFTGd0LWxfMFlZMk5nZWkzVGYwVTMybXIzV2EyeVVsMHBObDZLdW5RRVJpV0FSOFFxUHdZM1E?oc=5",
-     "src": "일간스포츠",
-     "date": "Thu, 26 Nov 2026 16:19:00 GMT"
-    },
-    {
      "title": "\"황희찬, 분데스리가 수준 아냐!\" '韓 축구 에이스'에 수준 미달 낙인! 122년 역사상 최악 공격력 '대굴욕' - 스포탈코리아",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnNGdEl5dHBpRm53ZDJRd1ozbTVZS0pkZWQ0X3RnUHU2NVJfbXlORlhPdVE3RG9CbjFLbnBaRkJ1VVUyMGNmMVctTHQzWVJOZmM4ZEdYeGxfaXdBUkc0TjNWMHlISmwzWDdRQWF2Y094clRDT2lhT3F0VWI0NmdOMmR3?oc=5",
      "src": "스포탈코리아",
      "date": "Mon, 23 Nov 2026 07:26:26 GMT"
     },
     {
+     "title": "“고장 난 피자 화덕 취급 말라” ‘KIM동료’ 발작·부상에 연봉 삭감 압박한 뮌헨, 전방위 역풍 - 일간스포츠",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IYzFwUU1vOXRWTFZrRnRLQnNhSzNqYk1GUmdkNTNFTGd0LWxfMFlZMk5nZWkzVGYwVTMybXIzV2EyeVVsMHBObDZLdW5RRVJpV0FSOFFxUHdZM1E?oc=5",
+     "src": "일간스포츠",
+     "date": "Thu, 26 Nov 2026 16:19:00 GMT"
+    },
+    {
+     "title": "`UCL 충격 역전패, 김민재 문제가 아니다`…바이에른 뮌헨 공격력 초토화, 분데스리가도 우려 - 마이데일리",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NVkpDQ1N5alU1Yi1nNEFnYmcwWHV4Z185UzRwdnFwQ0EwVzRwYTFteW5SV0JnY1U5Wm5FZUlhMU8xZ2VTakJvcXA3Tl9UTVFTb3RZZVhfbmltQVQyWTBya2JFVnN3UQ?oc=5",
+     "src": "마이데일리",
+     "date": "Thu, 26 Nov 2026 21:06:00 GMT"
+    },
+    {
      "title": "\"제2의 박지성? 인성부터 길러라\" 축구 팬들 비난 폭발...한국이 놓친 '특급 유망주', 교체 직후 거친 반응 보이며 퇴장 - SPOTV NEWS",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IMVliVThJclk0bVhzbDczQW9nVmJqRXAxcnFVOUV3MVhoNDM2LUctUW43bld2YU5vUDRwLXlyMGdScGpRVWgxRHZqem1qRkRqTXBpcTJ3cFlkTmxkazd4ek5mdklxeEI4R0pVM1gxVlc?oc=5",
      "src": "SPOTV NEWS",
      "date": "Wed, 25 Nov 2026 03:03:21 GMT"
-    },
-    {
-     "title": "'충격의 한국 축구' 韓 분데스리가 초토화...황희찬-카스트로프-정우영 모두 강등권 대추락 - 스포츠조선",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wM09kTG4wcXNlc3lQSmJ5NnFVb05yTkhQWUdfbFp3QnJpSHljOWxmNGc1Y0VHeTlnZzhnc1kyRmxSSTIzQmRBTWl2S1hDY2NLblM5YS1LQkF4bnZ3cl9NLWU5eE5qVU1mSlZLdGl1bkFQT3RfNTMwcF9XbkFKUQ?oc=5",
-     "src": "스포츠조선",
-     "date": "Tue, 03 Nov 2026 08:00:00 GMT"
     }
    ]
   },
@@ -1803,22 +1803,28 @@
  },
  "kr": [
   {
-   "title": "브라질 격파한 일본 축구, 유소년 예산 가로채는 한국 축구 - 프레시안",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCUFlJQjl5U2cwa3BITXdnZ21MblhQdElKRVIxdVJGeWlqSDFjc1RIUnZacENqRE5fX3hGTDJiRnNRdFhxQ2NENXI2bDdfRkxqcHNkZnd5Umpvc1gtNTRXX1BUcFphQ0ZKWG1F?oc=5",
-   "src": "프레시안",
-   "date": "Fri, 27 Nov 2026 01:43:35 GMT"
-  },
-  {
    "title": "스페인에 0-5 무너지더니…중국 8-0 대반전, 일본까지 제치고 ‘U-17 월드컵 32강 진출’ - 포포투",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cU95OG1uNUQwU1pPaExMay10SWE4elpSNXVxeXVYay1HOFBQLTNlZ0ZZMXBJS1N3dlY5SUJma0lPS292NjN3X0VYQktaV283YkxrN0dOSG1aZUFJX2c5bVlnc0d5RFdWQzRPTlFlNlNadw?oc=5",
    "src": "포포투",
    "date": "Thu, 26 Nov 2026 19:24:05 GMT"
   },
   {
+   "title": "'축구대표팀 감독 서류 탈락' 포옛, 3달 만에 깜짝 고백 \"무조건 합격할 줄 알았다, 그런데...\" - 머니투데이 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CVjF4elUxSUp2dk82RUNuN0Z6Znd1UlNHRHFKNDB2dGg0eTFJZmxKZGEtU2EyempraFpwSFVWUzBFaV9fVXdYM19jbUpLVnJMLUwtN1ZhQjVYUk1Eemo3NjVZbWJsZ2V4MXfSAW9BVV95cUxOTWNENzFPMUtrdlVpcGpVTWdJU0FDd1hLSmNvR1FVLXR1Qnh0QWdhU211TXNzQ25iUkxoT0FyZWNfNjkyVGd6WjY2ZFdnYkJ0SGJHTnBlS2hFeW5oVkN2Y0lseHFYQ3Noc2NkbFBCQ0U?oc=5",
+   "src": "머니투데이",
+   "date": "Fri, 27 Nov 2026 01:48:11 GMT"
+  },
+  {
    "title": "\"국가대표팀에서 은퇴하라\" 한국 축구 팬들 신뢰 떨어졌지만...일본에서는 다르다! \"선두 질주에 기여\" 호평 쏟아져 - SPOTV NEWS",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxOHkwTEUtb1UxdEhLd1Y2dFBPQmNwdld6Z3ZKYXhVM0lOYzJka0lZbXZjM3h6UC1id3BNcWw0NzNJMzNaN3hsUzdCYlZ3MjI0Wkt3TXNobjVGejY3bzJNYTRVdkJlVzVRU0xHTWFFaVc?oc=5",
    "src": "SPOTV NEWS",
    "date": "Wed, 25 Nov 2026 05:40:00 GMT"
+  },
+  {
+   "title": "브라질 격파한 일본 축구, 유소년 예산 가로채는 한국 축구 - 프레시안",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCUFlJQjl5U2cwa3BITXdnZ21MblhQdElKRVIxdVJGeWlqSDFjc1RIUnZacENqRE5fX3hGTDJiRnNRdFhxQ2NENXI2bDdfRkxqcHNkZnd5Umpvc1gtNTRXX1BUcFphQ0ZKWG1F?oc=5",
+   "src": "프레시안",
+   "date": "Fri, 27 Nov 2026 01:43:35 GMT"
   },
   {
    "title": "\"오직 대한민국 국가대표팀만 원했다\"...'서류 탈락' 포옛 감독 충격 고백 \"한국 사령탑 될 것이라 믿었다\" - 스포츠조선",
@@ -1833,10 +1839,10 @@
    "date": "Wed, 25 Nov 2026 09:07:53 GMT"
   },
   {
-   "title": "‘6경기 3승’ 모레노 감독의 운명은⋯축구협회, 오늘 두 번째 평가회 - 이투데이",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ydDBqa3JZbWpramcySTlYSW9IZ2pud29xU2RQMUVLYy15TXZRQjJ6RHRuY05FSm1JdG1uNURpV1psaUp4MkNFOFV1SUp6YWJuelJ3eQ?oc=5",
-   "src": "이투데이",
-   "date": "Wed, 25 Nov 2026 06:50:00 GMT"
+   "title": "前 일본 대표팀 감독 모리야스, K리그 올까 - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXBrX3ZNYjdlS2REaXdsek1BblNBa0o3SWlHQndBRkV6VTlPM3BoZFhyNTVZZnVoWHZzbVQ2SzhhTlFJWkt1cFlERHVfOUtUQVNtaV9XMk9fTlNEX3ZkcFBsZEdPd1U2OVBKdURpX2ZyX1lGNzlXRVgyMGQ5ckxQSVVMQWhxQTV6QUJn?oc=5",
+   "src": "조선일보",
+   "date": "Thu, 26 Nov 2026 15:42:00 GMT"
   },
   {
    "title": "격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정서 ‘벽 느꼈다’ 망신 당한 K리그 - 경향신문",
@@ -1845,16 +1851,10 @@
    "date": "Thu, 26 Nov 2026 05:38:00 GMT"
   },
   {
-   "title": "K리그1 MVP 후보에 김대원·김진수·이동경…12월 7일 수상자 발표 - 국제뉴스",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sdzMtXzZ0Y0xRc2ZEWl9xZDBfSDZQT1lXZ25vc2lFVllPcVVsVkdkZno2NzhKMTRjcXhGOWppX05Ec0ljUlluS21WOUtCSUxROGxBWFdtQ3JZOE5vWG1nM3l5YTU1M3Atak9XeGpB?oc=5",
-   "src": "국제뉴스",
-   "date": "Fri, 27 Nov 2026 01:42:16 GMT"
-  },
-  {
-   "title": "수퍼매치 등 라이벌전 풍년 예고한 2027 K리그1, 그 후보는 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5MENKOVoxb1liZEZILXFwTE4yTVE2Q2JacDFUV3BWOWh1TTFSYjZ4aG1oU0lDM0dTUU1lOU96SDRaamNPTVh0VmJDM3pGeUdjT0ZHQk5pd3d0WFNZVE82NktLcW9QZ3dqNC1yUGFXMmtVa3c1Y294Rw?oc=5",
-   "src": "네이트",
-   "date": "Fri, 27 Nov 2026 00:01:00 GMT"
+   "title": "아시아 호령하던 K리그, '강호'는 옛말 - 오마이스타",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1MGlwX1VTMHZUSjZHeU92aVBuMDZWWThZR0NxaGowazBVbkZQVkRJY1poUUFzNXktZl9rVUs3eW1GYW5MZE4zQTI1aVhXVC1hdHZSOEh3WDBMV0V2YXg5OTgwcElmVlY1akFQeWVwZHV5UlBQS3lGX0ppZGZNUQ?oc=5",
+   "src": "오마이스타",
+   "date": "Fri, 27 Nov 2026 04:03:00 GMT"
   },
   {
    "title": "K리그1 울산, 전북과 현대가더비…맞대결 5연패 끊을까[주목! 이 종목] - 뉴시스",
@@ -1863,16 +1863,16 @@
    "date": "Thu, 26 Nov 2026 23:00:00 GMT"
   },
   {
-   "title": "[그래도 K리그] 승점 1점 차, 아시아가 보인다...인천 vs 강원 ‘4위 전쟁’ - 더팩트",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmNDEybng3QXFjZ2NsN1BKQVExLUJiOW1nLXVHLUYtVUowclNSaUd1LVRBN0ZoLXNnbDI0MGR6SVBRYkZueVVtaXRWbm9MNEN0Z0NTQnk0UkXSAVNBVV95cUxQTzRzS1hkcXBsU2NFTlg3N3V3TGM0dF9aV1R6Wk9nUmJ2UHdhOFJsTE1jT2ZLYXk4SDF5OHo4WnlmR2pEaV9YYzByWmRtcjgxMjdLaw?oc=5",
-   "src": "더팩트",
-   "date": "Thu, 26 Nov 2026 15:00:03 GMT"
+   "title": "\"온라인 레울파크→굿즈 완판\" 서울 이랜드, K리그2 팬 프렌들리 클럽상 2년 연속 3관왕... 통산 13회 수상 - 머니투데이 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rczNrcy1ZYUswN1VNcWpnM29Vc0JaSGh6VEh2QTNUQi1LUDFjVWdWMHUxaFhrRkdFb0tIZXZWUHhCVkRpOUt3cDZaZXprZ016Rmx5OVkzWUtJRkdqVy1vYTkyRVFtVnFVUWfSAW9BVV95cUxQLTY1UEp4NjZoa3VmV0t4VFZKRGtyUHhLWEs0d0NxUTVTTFhWdnRDY3lOY0xGeEV4NFF4MDFmVUxDbV9yRGJFYzdadVdHeksyWC1vOXlpY0UtUWdMd2RCNVdEZjMxYlZhLVhZZy14ZXM?oc=5",
+   "src": "머니투데이",
+   "date": "Fri, 27 Nov 2026 06:45:33 GMT"
   },
   {
-   "title": "K리그2 화성FC 준PO 상대, 대구? 서울이랜드? - 기호일보",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zcXZUcFdXVmxkbDQ4YjFoVlVvbVAzd1dDbHRQM2Z1YVVFVnVLbHNjMzdLTkd2ZjZqWTRwLWV6X1ZsWU84Y1pGWVRFZUItRW9Bc1dlcVluQ0hsdHBLUjVmRnJGQnlGWHpsNGpMVXVyQQ?oc=5",
-   "src": "기호일보",
-   "date": "Thu, 26 Nov 2026 03:30:20 GMT"
+   "title": "PO 전쟁 앞둔 K리그2...그 전에 대구-서울E '3~4위' +부산-화성 '5~6위' 순위 싸움 남았다! - 스포츠조선",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qcjF6NmpUcXgwMmpqSWlubkkwa0pWRUYyVmtxajVsSmR3aFU5WlhBM3RfOFh5NnMxOWpnTWVDU3RSbWdvVHp2bWVnR282MUQ0eUtiZ2pRa2hFZHBMX3RDVTh6R1V5aHdidWZmUzFEdVhiclFJcWRkLWx6MWl4Zw?oc=5",
+   "src": "스포츠조선",
+   "date": "Fri, 27 Nov 2026 03:47:25 GMT"
   }
  ]
 }
