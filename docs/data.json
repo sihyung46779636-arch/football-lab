@@ -1,9 +1,16 @@
 {
- "updated": "2026-11-27T21:49:48.096Z",
+ "updated": "2026-11-28T00:57:35.389Z",
  "leagues": {
   "epl": {
    "name": "프리미어리그",
    "results": [
+    {
+     "t": "2026-11-27T20:00:00Z",
+     "h": "노팅엄",
+     "a": "첼시",
+     "hs": 3,
+     "as": 2
+    },
     {
      "t": "2026-11-23T20:00:00Z",
      "h": "브렌트퍼드",
@@ -66,13 +73,6 @@
      "a": "팰리스",
      "hs": 3,
      "as": 2
-    },
-    {
-     "t": "2026-11-21T12:30:00Z",
-     "h": "맨시티",
-     "a": "풀럼",
-     "hs": 1,
-     "as": 1
     }
    ],
    "fixtures": [
@@ -337,6 +337,12 @@
      "date": "Fri, 27 Nov 2026 21:48:02 GMT"
     },
     {
+     "title": "2026/27 잉글랜드 프리미어 리그 순위 - 12라운드 (최신) - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMS05dU1oOWt6cmNFYy1kZnN1VkRsTlFaanJFWGgwVDEzS1JKQnVrSVh2bkpHWnNkQ2VrMWJQZ085cEN1eVdKb0pPcjU1czhPb1h2NklLVmEyM3ZoUjJtT3IzeXdVS1BkbVVObTU4QUlvTGxDSzZ3VTUyelNiUldFcTYyNC1jdw?oc=5",
+     "src": "Vietnam.vn",
+     "date": "Sat, 28 Nov 2026 00:55:13 GMT"
+    },
+    {
      "title": "韓 축구, 프리미어리그 승격 4호 탄생하나…배준호의 스토크 파죽의 5연승→리그 2위 도약, 9시즌 만의 PL 복귀 청신호 - 네이트",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xWENWb0dzTkdQRWd2U2V6ME1UdUpnb2tYbnVwSjJqSEJxbXo5b0ZHMFNWV1ZWd3RNamZvZEducXhOVm1EQlo0VFRUam1wamdnN0lRc25R?oc=5",
      "src": "네이트",
@@ -349,28 +355,29 @@
      "date": "Fri, 27 Nov 2026 06:19:38 GMT"
     },
     {
-     "title": "선수·감독 아닌데 4G 출입 금지…EPL 분석관의 이례적인 징계 왜 나왔나 - 일간스포츠",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96VEY1cFo1bEpZRlRQUkdJOE5pNUJSeTZhY1V6Ulh2VEJNa2RfS0xwMFF3ai0ycmVkUEtyX1k4S0x2UjdkaS05VzNkOTc1MEwycm5yM0NDamhOMUU?oc=5",
+     "title": "“꺼져라, 넌 환영받지 못한다”…무단 인터뷰에 PK 헌납까지, 팬들 분노 폭발에 56분 만에 교체 수모 - 일간스포츠",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWnVJbVhpcFBubzZ1d2x2UTlWcWlRM1piMUk5Q2ZNaEN6Vi1GNlQ2czFnOVJNZVRzV29ZaldXeXNrbDAtRV91TEpYZ2FhdlJHLW51MHRBUlItYXM?oc=5",
      "src": "일간스포츠",
-     "date": "Fri, 27 Nov 2026 12:23:00 GMT"
+     "date": "Fri, 27 Nov 2026 23:00:00 GMT"
     },
     {
      "title": "토트넘서 밀려난 히샬리송, 친정팀 에버턴 복귀 추진 - 이투데이",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hWjYyamxyZHlHTlJqZU9VdVRhNVN4REN5VmVYWGdZWlBqUGNORnZ4SjZfOVJuLUY5d1A2UDgwRC10NmxObnA3V2RWYUttcENqTUxfTw?oc=5",
      "src": "이투데이",
      "date": "Fri, 27 Nov 2026 08:02:00 GMT"
-    },
-    {
-     "title": "맨체스터 유나이티드 GK 치명적 실수에 승리 날렸다!…맨유 레전드 옹호 \"슬픈 진실이 있다\" - 마이데일리",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4LVptdTFFZ2g4ZHNTUDZjN0M4aFJsaHpTbWZRTktHaWtrVU13Q0hFNU81TWFTeFZoVDFZT2FaQ2NadjYyLXB6QzUyZUp5bHVXNTd5cUdSalJGNFlaRS1KYVRlaEdKUQ?oc=5",
-     "src": "마이데일리",
-     "date": "Fri, 27 Nov 2026 21:03:00 GMT"
     }
    ]
   },
   "laliga": {
    "name": "라리가",
    "results": [
+    {
+     "t": "2026-11-27T20:00:00Z",
+     "h": "레반테",
+     "a": "라싱",
+     "hs": 1,
+     "as": 3
+    },
     {
      "t": "2026-11-23T20:00:00Z",
      "h": "레반테",
@@ -432,13 +439,6 @@
      "h": "알라베스",
      "a": "데포르티보",
      "hs": 3,
-     "as": 1
-    },
-    {
-     "t": "2026-11-20T20:00:00Z",
-     "h": "빌바오",
-     "a": "바르사",
-     "hs": 0,
      "as": 1
     }
    ],
@@ -704,34 +704,34 @@
      "date": "Mon, 23 Nov 2026 13:39:47 GMT"
     },
     {
-     "title": "[오피셜] '이강인 스승' 시메오네 감독, 스페인 축구 새 역사 썼다...라리가 통산 최다승 사령탑으로 '우뚝' - SPOTV NEWS",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83TkdWSVlSWlZBZmpzLUhRZTc2WnNZSWxPTzVLZVZjOHZfOUxJX2x1Z092NGotNTlsMGF0aFlkaHQtaml1VGliNVhxMGtLcER1R0ZTNEhsWWFZdFl3cDYzRDdjcDRQSFl0dlhPYklwX24?oc=5",
-     "src": "SPOTV NEWS",
-     "date": "Mon, 23 Nov 2026 09:30:00 GMT"
+     "title": "'쇠를로트 부상 악재' ATM, 다시 이강인의 왼발…엘체전 '골 침묵' 깰까 - 더팩트",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80QlpPSVlIYmpxRWxILVpwaUhManhZRkFEalQzVFE5WTVpZ202bXNlTHJwUkptb1JqZ0hTakhtUkJLUG9sUExIaVZaWnpsUXdmRFp3Q1hVc0bSAVNBVV95cUxNOUJ4X2kzV25kdkQ0bzd1cWEzUlNfUVdvQ05TdTJyTkVCaGh3Yzl1LXB2RUtpd0tSTHhtRk0xX1Q2SDIzNzU3U2NGb3k0TUNEWnMwWQ?oc=5",
+     "src": "더팩트",
+     "date": "Sat, 28 Nov 2026 00:11:19 GMT"
     },
     {
-     "title": "\"수비축구론 345승 못해!\" '이강인 스승' 시메오네가 라리가 역대 최다승 대기록 후 남긴 명언 - 스포츠조선",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IODF4SkVJTjRWVHlwWEZtbjdMRUs2d19iSEJRMExtRmt6X3hrRktoVkx5RnlsaHZjV05EczIxa1V0R0JQY05ydXYwbFJmNjJhYU4wOUoxR1gwZFljSi1xTW1RV2tiNy05V0JyMUdiLURUSG9UNUh3VktlZkdHZw?oc=5",
+     "title": "[오피셜]충격 '공식발표', 韓 축구 에이스 이강인 결국 '독박축구' 임박...아틀레티코 스트라이커 근육 부상 이탈, 바르사 원정 앞두고 대형 악재 - 스포츠조선",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13bkhIN1lzdlRhUUJsb0tOSmVIUUxiN2VxTmdXYko5cVBqcUVITzdyLS1reVZTSDljaWF0V1FnVUctY3gzal9rSTdvcXV1YUhhLUhYX0loT1FiY2VxYXlWVEU3SWdscjlXdEpBaF9UeVdpSEt0V1BwX3NoMXBmdw?oc=5",
      "src": "스포츠조선",
-     "date": "Mon, 23 Nov 2026 13:38:56 GMT"
+     "date": "Fri, 27 Nov 2026 23:47:22 GMT"
     },
     {
-     "title": "라리가 2019/20 3라운드 경기 결과 - 懂球帝",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HeENYSXFhRWxreUJfLTlBVXdRdzRCMmM4a19PVDRPSFEyMzRSbkdwZnluNWgya0g5eC1tOTJ1LVV4LWZxc2dPZnhneWQwZ0d6OUE?oc=5",
-     "src": "懂球帝",
-     "date": "Tue, 24 Nov 2026 04:06:28 GMT"
+     "title": "[오피셜] 시즌 첫 골 넣고 또 쓰러졌다… 이강인 UCL·라리가 여정에 차질 발생하나→ 쇠를로트, 근육 부상으로 2027년 복귀 전망 - 베스트일레븐",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9teFJMcHVYZS10SlNpOThVU1ZOZkJ5bTJ1MjJySnJ1UHRxdmNJRFNmU0Y2OHBQTmJiUnpDMjRDNHRXMktzUFRrSXJYaXlkeVpQU2dZYTZ5emgya2pCMi1ZbnZlS2E0OGoxNVNqRDBR?oc=5",
+     "src": "베스트일레븐",
+     "date": "Fri, 27 Nov 2026 01:06:07 GMT"
     },
     {
-     "title": "아틀레티코 CEO 힐 마린, 이해충돌 우려에 라리가 부회장 사임 - 이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UcERERE5lQ1pqd3NQWmVoU2F0V0tqQmhxMnJ3ZTBuOWhsRXU5MWFGc1c3NmJiZjFkUjBrLTdTdngxYjk5RkVxc2hiVUJUYWpHMGh5Zg?oc=5",
-     "src": "이투데이",
-     "date": "Wed, 25 Nov 2026 01:59:00 GMT"
+     "title": "이강인 선발 아틀레티코, 비킹에 2-0 승리 : 라리가 - 재경일보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Cckp0bDlsT21pai00eVo3YTFnV3NoQXZ3Q2YxWUNDMG5rcDRXREI2dHhjRzVJX2hqLU9HbDROX3BYWnltZExwb0dfVQ?oc=5",
+     "src": "재경일보",
+     "date": "Fri, 27 Nov 2026 03:26:54 GMT"
     },
     {
-     "title": "‘라리가 345승’ 최다승 신기록 시메오네 감독···실력으로 증명한 ‘350억 몸값의 자격’ - 스포츠경향",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNmQyekcwdkw5dmV4NEJvTEZqZW8waXB0UnpmVDR0d2p2c0RZVnhYdWVKOHdyYkxsMzMtem9HY1dsZVhUTHJEMl9XYWJHbXJ5MlIyLW9JRWpwVHFRQ1HSAWNBVV95cUxOcWtLZ0dtbE9SUjhBZXVZTUl1clY4VFBtSTRJcE14ZW9fRGtFYVRaMDM3NFRHbVBVdXlkUVB5QUphbGpxVUNqeE1ueHhKdVlCVUk3d3pBTXQ4MW9Da1V5VDBfRVk?oc=5",
-     "src": "스포츠경향",
-     "date": "Mon, 23 Nov 2026 05:21:00 GMT"
+     "title": "이강인의 라리가 시대 열린다…유럽축구 새 시즌 팡파르 - 연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSWlNnbkdmcTRpeE9RN2NNckZCbUhpZHlEWEtIYlFuNXNNSkFhbkJpaXlEZE5TbWxaaXo5Mk4xRnFrRjJ5QUJHZjEyNEp4UUJrWDlSSnBlc09wYlnSAWBBVV95cUxPY2NjQ3lJMlM1akJpWWU4NjBLd1kwTlVEd0VpS2g0UmpzYmxqYnFuR0M4OEIyQmtoeTNxVzZ0VVJoYnZPWEtRZUJ2eVZMUWpzSlF3YmFDTmM3U0N2WE5KWk4?oc=5",
+     "src": "연합뉴스",
+     "date": "Fri, 14 Aug 2026 07:00:00 GMT"
     }
    ]
   },
@@ -1083,22 +1083,22 @@
      "date": "Fri, 27 Nov 2026 07:14:33 GMT"
     },
     {
-     "title": "11월 27일 오늘 축구 경기 일정: 주요 경기로는 V리그와 2026년 U17 월드컵이 있습니다. - Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2xiWTlqcjE2aGsxTWhBdTJGaXlvd0Zpcnlzam8wVU1qWWFwWmlDVnNmTmItdFdNOTU1ZEF4Y1pDV0lpUElZTERTVE9NN3A1TTF1eklDbGlSS3NSZ1paaGg3Zko1YWk4ZUwwRzhZNjdEWFJuVHVZOExSb2ZzUHVqQVJQWnNmcHZ0aWdWYy1hdEM3N1NlYkJ1NWdkNGVfOG9jd0E?oc=5",
-     "src": "Vietnam.vn",
-     "date": "Fri, 27 Nov 2026 00:50:59 GMT"
-    },
-    {
-     "title": "콘세이상 1골 2도움…유벤투스, 오모니아 4-1 완파·5경기 무패 - 이투데이",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41dlhmWFUzQ1BjY2ZiYjJwTF80blhrajI0MHdhMHR6TnJuRzBKMnh6U3BGMWhFcHZldjQ5M3FIMl9mWVFPWEp5X29wSDFaWHBqeS05Uw?oc=5",
-     "src": "이투데이",
-     "date": "Fri, 27 Nov 2026 00:54:00 GMT"
+     "title": "엔리케가 인정한 가스페리니의 로마 “이번 시즌 가장 힘든 경기” - 스포츠경향",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3ZzJpa0xHQUtKblZDZGJWNnl0RXJPcFlWd05NaFE4NllBbEZLaWw2NnNKVHhvU0sxWUJaVExJaEYwYXQwUU8xdFhVQ25UUHUtSUdhVEE4Y0ppUEZiWUHSAWNBVV95cUxPT0IwcGFZNXByZHhTZ3pzSlZ6dW9TWXlhcjJhajhJeGJmVnU5MlhJbjFlMTVsT1JMTlUwSGZQRUNLdUlILWRUTVhzNFY1ZjI2Zy16V25zUXl1YldKME50VUpkTHM?oc=5",
+     "src": "스포츠경향",
+     "date": "Thu, 26 Nov 2026 07:05:00 GMT"
     },
     {
      "title": "\"저점 매수 기회\" 글로벌 '큰손' 축구에 빠졌다…이번엔 이탈리아 세리에A - 아시아경제",
      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yRW5tOEV3ZGxMV19iYXJJa05kN0dEYlZ4dHZGRERMU3AwZVFlLUxSOUtybGdBMm95ZlVBYTZRdlVaSXhWQ0xCR2pqYjI2WERRRXJWb2NvcUpmX0dBRDhMMA?oc=5",
      "src": "아시아경제",
      "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+    },
+    {
+     "title": "11월 27일 오늘 축구 경기 일정: 주요 경기로는 V리그와 2026년 U17 월드컵이 있습니다. - Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2xiWTlqcjE2aGsxTWhBdTJGaXlvd0Zpcnlzam8wVU1qWWFwWmlDVnNmTmItdFdNOTU1ZEF4Y1pDV0lpUElZTERTVE9NN3A1TTF1eklDbGlSS3NSZ1paaGg3Zko1YWk4ZUwwRzhZNjdEWFJuVHVZOExSb2ZzUHVqQVJQWnNmcHZ0aWdWYy1hdEM3N1NlYkJ1NWdkNGVfOG9jd0E?oc=5",
+     "src": "Vietnam.vn",
+     "date": "Fri, 27 Nov 2026 00:50:59 GMT"
     }
    ]
   },
@@ -1414,6 +1414,18 @@
    ],
    "news": [
     {
+     "title": "묀헨글라트바흐, 브레멘과 3-3 비겨…옌스 2경기 연속 선발 - 연합뉴스",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41ZnlHTVNqVk01QnVBb2M2Z1pHTUN0VFJoM3VEVTNYcTZnVWRKNy1waUhrdl9ockppSHVqUlVNRXJYd3RqTDQzckV6WlJrbGRqZENka3EwTjJJcDjSAWBBVV95cUxQQ0pEb3ZMZUxVblVNRVpRUEhTVkZyVzMxRmREY2N6MGNHLVZfWEM0OXhwOGtveWV4ZDQ2RFBzbncxWWljQVkwOXRIaW96M3BJWHFxZHVxN2pCZTlxRlBEeXE?oc=5",
+     "src": "연합뉴스",
+     "date": "Fri, 27 Nov 2026 23:54:19 GMT"
+    },
+    {
+     "title": "아스널이 탐내는 분데스리가 특급 윙어… ‘9골 8도움’ 누사에 철벽 치는 라이프치히, “1,461억 원 넘게 가져와” - 베스트일레븐",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XZ2dlcFJtU3JnYUVnSnp4S0dYblo2TUx0LUVsaFZEdzVlNE1BUF94TWFQT19nLTA0cEVVc1pidzlMbko1V2hZQW9xQWdweXFwQVVGTUkyaEJzMThrQUM1UzZISi1MWUV5a0VqSGVR?oc=5",
+     "src": "베스트일레븐",
+     "date": "Sat, 28 Nov 2026 00:19:20 GMT"
+    },
+    {
      "title": "'韓 국가대표 공격수' 황희찬, 어쩌나...\"역사상 최악, 분데스리가 수준 미달\", \"어정쩡하다\" 팀 득점력 부진에 獨 언론·레전드 혹평 세례 - 스포탈코리아",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGJQNE5vdU9aamhWMEJPTFNoZlgxVGw5M05NVjlBUXBVeUNuZlVJZl80SVNUei1XVzRub2lVWnlQUktDckg5STAyWmlqVGh1WFEyTm14U2dTNDdNQTBST3RHd0p2LU4yZkNLbENLWjJDUHJXUXc1Wmp4VFNyYThFVDZB?oc=5",
      "src": "스포탈코리아",
@@ -1432,28 +1444,23 @@
      "date": "Wed, 25 Nov 2026 10:39:00 GMT"
     },
     {
-     "title": "'35초 기적' 황희찬 또 쓴소리 들었다···獨 언론+샬케04 레전드까지 \"완전히 형편없어, 역사상 최악의 공격진\" - 네이트",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84YTJWbzctOF90NGFDTjRRV1RYNGpYX3F0WDFuMVNDWmFuVWpKWGllREdFU1BlSEE2T0gtUnRiLUlaU1dZNFlfYm0zN0Z6Y2V5YVhUWEZ3?oc=5",
-     "src": "네이트",
-     "date": "Fri, 27 Nov 2026 10:37:00 GMT"
-    },
-    {
-     "title": "'유럽 입성 얼마 안 됐는데' 한국 축구의 미래, 경사 났다! \"분데스리가가 원한다\" 어린 나이에 빅리그 가능성 제기 - SPOTV NEWS",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Xb2RmeTBadVAyTkpIOWhST2drQU9oYzNOUWl5Mm91TkFBaU12R0l6b2hUY0k4NVhkbDJWazI3ZURZb1FEbTE2Yzg2Z2pYM29FenhJNkt0MFRvcUdBcndDaXFIVmxrQ2ZhUThRNDFld1Q?oc=5",
-     "src": "SPOTV NEWS",
-     "date": "Mon, 09 Nov 2026 10:57:45 GMT"
-    },
-    {
-     "title": "'충격의 한국 축구' 韓 분데스리가 초토화...황희찬-카스트로프-정우영 모두 강등권 대추락 - 스포츠조선",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wM09kTG4wcXNlc3lQSmJ5NnFVb05yTkhQWUdfbFp3QnJpSHljOWxmNGc1Y0VHeTlnZzhnc1kyRmxSSTIzQmRBTWl2S1hDY2NLblM5YS1LQkF4bnZ3cl9NLWU5eE5qVU1mSlZLdGl1bkFQT3RfNTMwcF9XbkFKUQ?oc=5",
-     "src": "스포츠조선",
-     "date": "Tue, 03 Nov 2026 08:00:00 GMT"
+     "title": "베르더 브레멘-묀헨글라트바흐 3-3 무승부…베네치아-볼로냐 0-0 : 해외축구 - 재경일보",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54WmY1RTdFXzRjRC1pcFFhQ192cnd0VDdLcmhha3BzU2xMMmEtcWpwT2d3ejZublUyX1o0NXBJUmlHaUhmVUZuUmJUOA?oc=5",
+     "src": "재경일보",
+     "date": "Fri, 27 Nov 2026 21:40:00 GMT"
     }
    ]
   },
   "ligue1": {
    "name": "리그 1",
    "results": [
+    {
+     "t": "2026-11-27T19:45:00Z",
+     "h": "브레스트",
+     "a": "파리FC",
+     "hs": 1,
+     "as": 0
+    },
     {
      "t": "2026-11-22T19:45:00Z",
      "h": "마르세유",
@@ -1516,13 +1523,6 @@
      "a": "르아브르",
      "hs": 3,
      "as": 1
-    },
-    {
-     "t": "2026-11-08T19:45:00Z",
-     "h": "라싱",
-     "a": "마르세유",
-     "hs": 1,
-     "as": 2
     }
    ],
    "fixtures": [
@@ -1787,16 +1787,16 @@
      "date": "Sat, 23 May 2026 07:00:00 GMT"
     },
     {
-     "title": "FC 모바일, 프랑스 프로축구 ‘리그앙 맥도날드’ 파트너십 이어간다 - 게임톡",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTm1JSHAwMDM0Uk5pNmE5Y3cweklMSGcxWGhMUFdUT213S3dWRTJBWllrRkNIR3E0VkpFalRwcDhVamNzbFg5dUhjXzIyc0RvRmhxcllTT294TllBZFhlLVNaSmJ1cGhCUTlHWQ?oc=5",
-     "src": "게임톡",
-     "date": "Wed, 22 Jul 2026 07:00:00 GMT"
-    },
-    {
      "title": "\"1골 1도움 폭발했는데 떠난다?\" 이강인, PSG 결별 결심 보도→사우디 알 아흘리까지 제안…엔리케는 왜 안 쓰나 - 조선일보",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlN5dVh0Q0gzeGxYdDdHanFPemx1TUdGT0Z1T1FmMnktQkpZTFVmYlU1M2RaQVVGQUFmbjc0V01Rb3pCbzdnVVVSeXNGSjJGNG1Wak52UEtJaEQzUC1CVXFTck5qUWtyaUNKeERINF94Y3RNNEZaTFpQZ1VZandKT3NFTzQzOTQtVjFn?oc=5",
      "src": "조선일보",
      "date": "Mon, 27 Apr 2026 07:00:00 GMT"
+    },
+    {
+     "title": "FC 모바일, 프랑스 프로축구 ‘리그앙 맥도날드’ 파트너십 이어간다 - 게임톡",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTm1JSHAwMDM0Uk5pNmE5Y3cweklMSGcxWGhMUFdUT213S3dWRTJBWllrRkNIR3E0VkpFalRwcDhVamNzbFg5dUhjXzIyc0RvRmhxcllTT294TllBZFhlLVNaSmJ1cGhCUTlHWQ?oc=5",
+     "src": "게임톡",
+     "date": "Wed, 22 Jul 2026 07:00:00 GMT"
     }
    ]
   }
@@ -1815,22 +1815,16 @@
    "date": "Fri, 27 Nov 2026 01:43:35 GMT"
   },
   {
-   "title": "\"국가대표팀에서 은퇴하라\" 한국 축구 팬들 신뢰 떨어졌지만...일본에서는 다르다! \"선두 질주에 기여\" 호평 쏟아져 - SPOTV NEWS",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxOHkwTEUtb1UxdEhLd1Y2dFBPQmNwdld6Z3ZKYXhVM0lOYzJka0lZbXZjM3h6UC1id3BNcWw0NzNJMzNaN3hsUzdCYlZ3MjI0Wkt3TXNobjVGejY3bzJNYTRVdkJlVzVRU0xHTWFFaVc?oc=5",
-   "src": "SPOTV NEWS",
-   "date": "Wed, 25 Nov 2026 05:40:00 GMT"
-  },
-  {
-   "title": "포옛, 한국 대표팀에 올인하며 타 구단 제안 모두 거절했다가 8월 서류 탈락 - 위키트리",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iSlMyTGF4Umx0WXRwUWdtcFRNRk1Cb0JtNlhLcm1SV21rSWV0OHV1S1FGVDJGNURrS1pKR0JLMy1YcWF0UXNGRjhWS0h2QVdNOExVaHRn?oc=5",
-   "src": "위키트리",
-   "date": "Fri, 27 Nov 2026 12:34:00 GMT"
-  },
-  {
    "title": "한국 국가대표팀에는 0-3으로 깨졌지만...FIFA, ‘아프리카 다크호스’ 우간다 ‘15세 듀오’ 집중 조명 - 포포투",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlT3FsOVdqTGRwdHMwQ1p0ZHhaZGJwTVZzU3Y2dlJlN2tDUnV5THdRUm4tZGtEZTI5V09GaVpfRVdDWXZ2SWhHNkRoVC1LeDRpRDlTMU0xenhxajI5bTNLWEJmdE5jNHF3ek51SF8xUGhsdw?oc=5",
    "src": "포포투",
    "date": "Thu, 26 Nov 2026 17:00:00 GMT"
+  },
+  {
+   "title": "\"국가대표팀에서 은퇴하라\" 한국 축구 팬들 신뢰 떨어졌지만...일본에서는 다르다! \"선두 질주에 기여\" 호평 쏟아져 - SPOTV NEWS",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxOHkwTEUtb1UxdEhLd1Y2dFBPQmNwdld6Z3ZKYXhVM0lOYzJka0lZbXZjM3h6UC1id3BNcWw0NzNJMzNaN3hsUzdCYlZ3MjI0Wkt3TXNobjVGejY3bzJNYTRVdkJlVzVRU0xHTWFFaVc?oc=5",
+   "src": "SPOTV NEWS",
+   "date": "Wed, 25 Nov 2026 05:40:00 GMT"
   },
   {
    "title": "\"오직 대한민국 국가대표팀만 원했다\"...'서류 탈락' 포옛 감독 충격 고백 \"한국 사령탑 될 것이라 믿었다\" - 스포츠조선",
@@ -1839,10 +1833,22 @@
    "date": "Thu, 26 Nov 2026 06:44:47 GMT"
   },
   {
-   "title": "K리그1 울산, 전북과 현대가더비…맞대결 5연패 끊을까[주목! 이 종목] - 뉴시스",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RTmVIUXJxdjNoNjVMYjM0TFBZNGxXT1pXSUZJTW1qdHJTQ0hEckxWQU5pXy1qUVAxeFBVV0U5SWZUQmlZRXhWc3pJeXFkeDU0VzRQQU9vdzU4cXI4Q1BWNNIBeEFVX3lxTE54UFBobGVCV0xzbGI2QTlmVzU0R3pvSngxa3d3Z05lVUpELXBrdENPYzVlS3dyN0ZNWm13ZXJKbnpWS0JaYVVDejRKTHZOTndRWkxzaHF0RW40RkNiUTE3bzNtTkU1ZXNaSmRCMEJyUTFXa2hiRXRQbw?oc=5",
-   "src": "뉴시스",
-   "date": "Thu, 26 Nov 2026 23:00:00 GMT"
+   "title": "모레노 극적 부활? 3월 '임시 사령탑' 한 번 더 가능할까…KFA 전강위, 두 번째 평가회 진행→통보 예정 - 엑스포츠뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ySEtEUjhlcWc5LWptbkt0NWdqaExfaWE3TklrUmMzejNKSElydzNRaVF4aG93aTFWNXpQaTBzdkZmNUc1bUEyTjFOc0gxNGYzMm0wYw?oc=5",
+   "src": "엑스포츠뉴스",
+   "date": "Wed, 25 Nov 2026 09:07:53 GMT"
+  },
+  {
+   "title": "前 일본 대표팀 감독 모리야스, K리그 올까 - 조선일보",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXBrX3ZNYjdlS2REaXdsek1BblNBa0o3SWlHQndBRkV6VTlPM3BoZFhyNTVZZnVoWHZzbVQ2SzhhTlFJWkt1cFlERHVfOUtUQVNtaV9XMk9fTlNEX3ZkcFBsZEdPd1U2OVBKdURpX2ZyX1lGNzlXRVgyMGQ5ckxQSVVMQWhxQTV6QUJn?oc=5",
+   "src": "조선일보",
+   "date": "Thu, 26 Nov 2026 15:53:38 GMT"
+  },
+  {
+   "title": "K리그1 전북, ACLE 5차전 원정서 가시마에 0-3 완패(종합) - 톱스타뉴스",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrdTBnQ0V2MV9JMjlqZGlHM2ZSYlpmSWJpN0NaUGt0amY1S2VjZFVfekVDV2lSOTFwbDFFZW1VVEJUeFdOVGpRWGVodFVXZVdjYTFfRTlEeENQXzZkXzd3aTZoOF9LYzgzclZOQ3F2Z0dNUQ?oc=5",
+   "src": "톱스타뉴스",
+   "date": "Wed, 25 Nov 2026 14:13:35 GMT"
   },
   {
    "title": "아시아 호령하던 K리그, '강호'는 옛말 - 오마이스타",
@@ -1857,22 +1863,16 @@
    "date": "Thu, 26 Nov 2026 05:38:00 GMT"
   },
   {
-   "title": "울산·이랜드, K리그 3차 '팬 프렌들리 클럽상' 수상…'그린 스타디움' 주인공은 서울·천안 - 네이트",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82bEhjZlVlRXAxYnlWRkVMbk9yVzctNFoxVFh1bWF0Sng0U2p6amNVaFVGLXNKTzB1RjB0NGhOWHI3dm1wb0ZUYi1sWFNjT0NYRXoyQUZUS2NILXpObnNZSWJBRmE5cnh2RnFrb0hTVWFZbmE3UFJWeQ?oc=5",
-   "src": "네이트",
-   "date": "Fri, 27 Nov 2026 10:32:00 GMT"
+   "title": "K리그는 완화했는데 FIFA는 오히려 의무화 추진!…'U-21 선수 최소 1명 출전' 도입→축구계 판도 뒤흔드나 - www.xportsnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEVTlPRmZ3a0swVzQwMDFrd3VtTUVuTktDZEYyaFFjaHNmdjN6LWdYSFg1bnRIUXhUSjhXZUExb2dscTgxaGsyWVd4V1JTNEstSWlUSQ?oc=5",
+   "src": "www.xportsnews.com",
+   "date": "Sat, 28 Nov 2026 00:30:36 GMT"
   },
   {
-   "title": "前 일본 대표팀 감독 모리야스, K리그 올까 - 조선일보",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXBrX3ZNYjdlS2REaXdsek1BblNBa0o3SWlHQndBRkV6VTlPM3BoZFhyNTVZZnVoWHZzbVQ2SzhhTlFJWkt1cFlERHVfOUtUQVNtaV9XMk9fTlNEX3ZkcFBsZEdPd1U2OVBKdURpX2ZyX1lGNzlXRVgyMGQ5ckxQSVVMQWhxQTV6QUJn?oc=5",
-   "src": "조선일보",
-   "date": "Thu, 26 Nov 2026 15:53:38 GMT"
-  },
-  {
-   "title": "[그래도 K리그] 대구는 3위, 부산은 5위 '수성'...K리그2 최종전 ‘1점 차’ 승부 - 더팩트",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xZzZtbVlqa2JYamNwa25PcTNReWhtTkhSN0t2cHVvaHRCWWtVT0J2Sm5Nc0phSXRjVjFMa0MwcDBmdFhuX0VtWDc0bzkyQkxyeFlVbnQ2NjXSAVNBVV95cUxNT1JDSDFFaDNtTnlTTWV3NGdEWGxIN0E4aGtNWVFwbVVtYmx0azZraldOVlRwV1J0bkNHQkFDSDRWNXRfbmlGMXc3THF2djQzYU5QMA?oc=5",
-   "src": "더팩트",
-   "date": "Fri, 27 Nov 2026 15:00:02 GMT"
+   "title": "[K리그1 프리뷰]물러설 수 없는 울산-전북 '시즌 마지막 현대가 더비' 설욕인가, 반등인가...서울 '우승' 대관식엔 '10경기 무패' 대전 출격 - 스포츠조선",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Vm1pMlZmelJZYUQwZjdBVjgwa1M0UjIwQjhrSGZLZmlEdTU0ZzZ4MmRwQjZ1TmhzckdiOEJVVUtqZ3FRMmJuQmVsNnBBbGw4MU1KZXdreEtqWkFyd1UzN05VenBfVDBmNE1VdFJWaExLT1U3WmNxRFVjYmdNdw?oc=5",
+   "src": "스포츠조선",
+   "date": "Fri, 27 Nov 2026 22:00:41 GMT"
   }
  ]
 }
